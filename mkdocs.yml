@@ -1,0 +1,85 @@
+site_name: "admin.digital Dokumentation"
+site_url: https://docs.admin.digital
+docs_dir: content
+
+theme:
+  name: material
+  language: de
+  logo: img/logo.svg
+  favicon: img/favicon.svg
+  custom_dir: overrides
+  font:
+    text: Source Sans Pro
+    code: Source Code Pro
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Dunkelmodus aktivieren
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Hellmodus aktivieren
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+
+plugins:
+  - search:
+      lang:
+        - de
+        - en
+  - tags
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - stylesheets/custom.css
+
+extra_javascript:
+  - javascripts/custom.js
+
+nav:
+  - Startseite: index.md
+  - Erste Schritte:
+      - erste-schritte/index.md
+      - Anmeldung: erste-schritte/anmeldung.md
+  - Digitale Services: services/index.md
+  - Module:
+      - module/index.md
+  - Datenschutz: datenschutz/index.md
+  - Neuerungen: neuerungen/index.md
+  - FAQ:
+      - faq/index.md
+  - Kontakt: kontakt.md

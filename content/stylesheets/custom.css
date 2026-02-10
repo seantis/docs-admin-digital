@@ -1,0 +1,100 @@
+/* ==========================================================================
+   admin.digital -- Material Theme Overrides
+   Brand colors from admin.digital:
+     Primary red:      #DC0018
+     Blue accent:      #169BDB
+     Dark footer/bg:   #30302E
+     Light background: #F3F2EF
+     Text primary:     #212529
+     Text secondary:   #495057
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Material Design custom-property overrides
+   -------------------------------------------------------------------------- */
+
+:root {
+    --md-primary-fg-color:        #DC0018;
+    --md-primary-fg-color--light: #E5334A;
+    --md-primary-fg-color--dark:  #B00014;
+    --md-accent-fg-color:         #169BDB;
+}
+
+/* --------------------------------------------------------------------------
+   2. Typography refinements
+   -------------------------------------------------------------------------- */
+
+.md-content article h1 {
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+
+.md-content article h2 {
+    font-weight: 500;
+    margin-top: 1.5em;
+}
+
+/* --------------------------------------------------------------------------
+   3. Readability constraints
+   -------------------------------------------------------------------------- */
+
+/* Paragraphs (skip image-only ones so full-width images are not squished) */
+.md-content article > p:not(.img-only) {
+    max-width: 67ex;
+}
+
+/* Admonitions */
+.admonition {
+    max-width: 80ex;
+}
+
+/* --------------------------------------------------------------------------
+   4. Header logo -- larger to show the full admin.digital wordmark
+   -------------------------------------------------------------------------- */
+
+.md-header__button.md-logo img {
+    height: 2rem;
+    width: auto;
+}
+
+/* --------------------------------------------------------------------------
+   5. Header title -- behave like a link (JS hooks the click)
+   -------------------------------------------------------------------------- */
+
+.md-header__title {
+    cursor: pointer;
+}
+
+.md-header__title:hover {
+    text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------
+   5. Navigation -- ellipsis for long items
+   -------------------------------------------------------------------------- */
+
+.md-nav__list a {
+    white-space: nowrap;
+}
+
+/* --------------------------------------------------------------------------
+   6. Footer -- dark brand background
+   -------------------------------------------------------------------------- */
+
+.md-footer {
+    background-color: #30302E;
+}
+
+/* --------------------------------------------------------------------------
+   7. Fade-in animation utility
+   -------------------------------------------------------------------------- */
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.animate-fade-in {
+    animation: fadeIn 2s;
+}
