@@ -1,11 +1,11 @@
 ---
-title: Willkommen bei admin.digital
+title: Benutzerhandbuch admin.digital
 description: Dokumentation der Cloud-Plattform für die öffentliche Verwaltung der Schweiz
 hide:
   - toc
 ---
 
-# Willkommen bei der admin.digital Dokumentation
+#  Benutzerhandbuch admin.digital
 
 **admin.digital** ist die Cloud-Plattform für die öffentliche Verwaltung der Schweiz. Sie unterstützt Kantone und Gemeinden bei der Digitalisierung ihrer Verwaltungsprozesse — sicher, zuverlässig und datenschutzkonform.
 
