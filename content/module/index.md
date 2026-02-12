@@ -11,14 +11,13 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
 <div class="grid cards" markdown>
 
--   :material-office-building-outline:{ .lg .middle } **Verwaltungsplattform**
+-   :material-form-select:{ .lg .middle } **Formulare**
 
     ---
 
-    Zentrale Plattform für die digitale Verwaltungsarbeit. Verwalte Geschäfte, Aufgaben und Prozesse an einem Ort.
+    Erstellung und Verwaltung von digitalen Formularen für verschiedene Verwaltungsprozesse.
 
-    <!-- TODO: Link zur detaillierten Moduldokumentation ergänzen -->
-    *Dokumentation folgt.*
+     [:octicons-arrow-right-24: Jetzt starten](/module/formulare/)
 
 -   :material-desktop-classic:{ .lg .middle } **Online-Schalter**
 
@@ -26,17 +25,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     Digitale Anlaufstelle für Bürgerinnen und Bürger. Ermöglicht die Einreichung von Gesuchen und Anträgen über das Internet.
 
-    <!-- TODO: Link zur detaillierten Moduldokumentation ergänzen -->
-    *Dokumentation folgt.*
-
--   :material-file-document-outline:{ .lg .middle } **Dokumentenmanagement**
-
-    ---
-
-    Sichere Verwaltung, Ablage und Archivierung von Dokumenten. Unterstützt strukturierte Ablage und Volltextsuche.
-
-    <!-- TODO: Link zur detaillierten Moduldokumentation ergänzen -->
-    *Dokumentation folgt.*
+    [:octicons-arrow-right-24: Jetzt starten](/module/online-schalter/)
 
 -   :material-calendar-outline:{ .lg .middle } **Reservationen**
 
@@ -44,22 +33,62 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     Verwaltung von Raumreservationen, Ressourcen und Buchungen für öffentliche Einrichtungen.
 
-    <!-- TODO: Link zur detaillierten Moduldokumentation ergänzen -->
-    *Dokumentation folgt.*
+    [:octicons-arrow-right-24: Jetzt starten](/module/reservationen/)
 
--   :material-form-select:{ .lg .middle } **Formulare**
-
-    ---
-
-    Erstellung und Verwaltung von digitalen Formularen für verschiedene Verwaltungsprozesse.
-
-    <!-- TODO: Link zur detaillierten Moduldokumentation ergänzen -->
-    *Dokumentation folgt.*
-
--   :material-dots-horizontal-circle-outline:{ .lg .middle } **Weitere Module**
+-   :material-dots-horizontal-circle-outline:{ .lg .middle } **Themen und News**
 
     ---
 
-    Zusätzliche Module werden laufend entwickelt und hier dokumentiert. Bei Interesse an weiteren Modulen wende dich an den [Support](../kontakt.md).
+    Publizieren Informationen und News zu Themen rund um die eigene Organisation.
+    
+    [:octicons-arrow-right-24: Jetzt starten](/module/themen-und-news/)
+
+-   :material-account-multiple:{ .lg .middle } **Benutzerverwaltung**
+
+    ---
+
+    Verwaltung von Benutzern und Rollen für sichere Zugriffskontrolle in der Verwaltung.
+
+    [:octicons-arrow-right-24: Jetzt starten](/module/benutzerverwaltung/)
+
+-   :material-ticket-confirmation-outline:{ .lg .middle } **Service Ticketing**
+
+    ---
+
+    Erfassung, Bearbeitung und Nachverfolgung von Serviceanfragen und Tickets.
+
+    [:octicons-arrow-right-24: Jetzt starten](/module/service-ticketing/)
+
+-   :material-card-account-details-outline:{ .lg .middle } **Personenverzeichnis**
+
+    ---
+
+    Zentrale Verwaltung und Suche von Personen- und Kontaktdaten.
+
+    [:octicons-arrow-right-24: Jetzt starten](/module/personenverzeichnis/)
+
+-   :material-calendar-month-outline:{ .lg .middle } **Veranstaltungskalender**
+
+    ---
+
+    Planung, Veröffentlichung und Verwaltung von Veranstaltungen und Terminen.
+
+    [:octicons-arrow-right-24: Jetzt starten](/module/veranstaltungskalender/)
+
+-   :material-format-list-bulleted:{ .lg .middle } **Verzeichnisse**
+
+    ---
+
+    Zentrale Pflege und Veröffentlichung von strukturierten Verzeichnissen.
+
+    [:octicons-arrow-right-24: Jetzt starten](/module/verzeichnisse/)
+
+-   :material-image-multiple-outline:{ .lg .middle } **Fotoalben**
+
+    ---
+
+    Verwaltung und Veröffentlichung von Fotoalben für Veranstaltungen und Themen.
+
+    [:octicons-arrow-right-24: Jetzt starten](/module/fotoalben/)
 
 </div>
