@@ -5,7 +5,7 @@ install:
 	uv pip install --python .venv/bin/python -r requirements.txt
 
 serve:
-	.venv/bin/mkdocs serve
+	.venv/bin/mkdocs serve --livereload
 
 build:
 	.venv/bin/mkdocs build
