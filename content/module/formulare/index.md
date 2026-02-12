@@ -7,6 +7,9 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 Online- Formulare werden zur Erfassung von Informationen benötigt, die zur Abwicklung eines Online- Prozesses notwendig sind. Durch Kunden ausgefüllte Formulare werden automatisch als Tickets in den Ticket- Schalter eingebunden und bilden die Grundlage von digitalen Prozessen.
 
+!!! tip "Code einfach kopieren"
+    Der Code in den grauen Boxen kannst du einfach kopieren indem du auf das Symbol oben rechts in der Box klickst.
+
 ## Formulare erstellen und bearbeiten
 Formulare können durch berechtigte Benutzer einfach erstellt werden. Die Übersicht aller Formulare findet sich über den Menupunkt `Verwaltung` > `Formulare` (URL `./forms`).
 

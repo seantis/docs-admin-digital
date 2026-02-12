@@ -7,6 +7,8 @@ description: Sammlung von Beispielen in Formcode für Formulare
 
 Hier ist eine Sammlung von Formcode-Schnipseln als Beispiele für unterschiedliche Formulardefinitionen. Die Beispiele sind allgemein gehalten und können je nach Anforderunen einfach kopiert und angepasst werden.
 
+!!! tip "Code einfach kopieren"
+    Der Code in den grauen Boxen kannst du einfach kopieren indem du auf das Symbol oben rechts in der Box klickst.
 
 ## Kontaktangaben
 

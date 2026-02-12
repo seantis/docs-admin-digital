@@ -11,8 +11,6 @@ Bei Fragen, Anregungen oder Problemen rund um admin.digital stehen wir gerne zu 
 
 Brauchst du Hilfe bei der Nutzung von admin.digital? So erreichst du uns:
 
-<!-- TODO: Support-E-Mail-Adresse und ggf. Ticketsystem-URL ergänzen -->
-
 !!! info "Support kontaktieren"
     :material-email-outline: **E-Mail:** [support@seantis.ch](mailto:support@seantis.ch)
 
@@ -28,8 +26,6 @@ Bei technischen Fragen und Zugangsproblemen ist in der Regel die **IT-Stelle dei
 ## admin.digital Webseite
 
 Allgemeine Informationen zur Plattform, zu Referenzen und zum Angebot findest du auf der Webseite:
-
-<!-- TODO: Exakte URL prüfen und ergänzen -->
 
 :material-web: [admin.digital](https://www.admin.digital)
 
