@@ -63,12 +63,12 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
     ---
 
     admin.digital wird als Open-Source-Software entwickelt. Transparenz und Zusammenarbeit stehen im Mittelpunkt. Der Source Code ist auf Github verfügbar: [https://github.com/OneGov/onegov-cloud](https://github.com/OneGov/onegov-cloud).
-    Die Software steht unter einer MIT Lizenz: [https://github.com/OneGov/onegov-cloud/blob/master/LICENSE](https://github.com/OneGov/onegov-cloud/blob/master/LICENSE)
+    Die Software steht unter einer [MIT Lizenz](https://github.com/OneGov/onegov-cloud/blob/master/LICENSE).
 
 -   :material-security:{ .lg .middle } **Informationssicherheit**
 
     ---
 
-    Informationssicherheit und Datenschutz stehen an erster Stelle. Qualität und Informationssicherheit gehören seit der Gründung der [Seantis AG](http://www.seantis.ch) zu den Grundwerten. Es ist ein [Managementsystem für Informationssicherheit](https://www.seantis.ch/portrait/informationssicherheit-iso-27001/) implementiert, welches gemäss ISO/IEC 27001:2022 zertifiziert ist und auditiert wird.
+    Informationssicherheit und Datenschutz stehen an erster Stelle. Qualität und Informationssicherheit gehören seit der Gründung der [Seantis AG](http://www.seantis.ch) zu den Grundwerten. Die Firma hat ein [Managementsystem für Informationssicherheit](https://www.seantis.ch/portrait/informationssicherheit-iso-27001/) implementiert, welches gemäss ISO/IEC 27001:2022 zertifiziert ist und auditiert wird.
 
 </div>
