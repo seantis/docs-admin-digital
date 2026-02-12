@@ -29,6 +29,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.indexes
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -76,7 +77,7 @@ nav:
       - erste-schritte/index.md
   - Module:
       - module/index.md
-      - Formulare: module/formulare.md
+      - Formulare: module/formulare/index.md
   - Neuerungen: neuerungen/index.md
   - FAQ:
       - faq/index.md
