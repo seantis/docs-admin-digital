@@ -72,7 +72,7 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Di
     2. Wähle das gewünschte Bild und klicke auf `<X>`{=html}.
     3. Bestätige mit `<Bild Löschen>`{=html}.
 
-## Dokumente
+## Dokumente und Dateien
 
 ??? question "Wie importiere ich Dokumente?"
     So gehst du vor:
@@ -130,6 +130,13 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Di
     1. Wähle `<Verschieben>`{=html} im unteren Admin-Balken.
     2. Lege das Zielverzeichnis fest.
     3. Bestätige die Änderung.
+
+??? question "Wie füge ich ein Video ein?"
+    So gehst du vor:
+
+    1. Kopiere die URL von Youtube oder Vimeo.
+    2. Füge den Link direkt im Textfeld ein.
+    3. Das Video wird direkt auf der Inhaltsseite in einem Player angezeigt.
 
 ## Formulare
 
