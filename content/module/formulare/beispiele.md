@@ -12,7 +12,7 @@ Hier ist eine Sammlung von Formcode-Schnipseln als Beispiele für unterschiedlic
 
 ## Kontaktangaben
 
-```
+```ini
 # Kontaktangaben
 Organisation = ___
 Vorname *= ___
@@ -27,7 +27,7 @@ Telefon *= ___
 
 ## Rechungsadressen
 
-```
+```ini
 Rechnungsadresse = 
     (x) gleich wie Gesuchsteller
     ( ) andere Rechnungsadresse
@@ -42,7 +42,7 @@ Rechnungsadresse =
 
 ## Richtlinien und Benutzungsordnung
 
-```
+```ini
 # Richtlinie und Gebührenordnung
 Richtlinie und Gebührenordnung *= 
     [ ] Hiermit akzeptiere ich die Richtlinie über die Benützung sowie die Gebührenordnung.
@@ -55,7 +55,7 @@ Die URL `https://www.TODO-URL.ch` erstzen durch den Link auf das entsprechende D
 
 Rabatte in absoluten Beträgen: 
 
-```
+```ini
 Preiskategorie *= 
     ( ) A - Städtische Vereine, gemeinnützige Organisationen (-200.00 CHF)
     ( ) B - Einheimische Organisationen, natürliche und juristische Personen) (-100.00 CHF)
@@ -65,7 +65,7 @@ Preiskategorie *=
 
 Rabatte in relativen Beträgen (%): 
 
-```
+```ini
 Preiskategorie *= 
     ( ) A - Städtische Vereine, gemeinnützige Organisationen (100%)
     ( ) B - Einheimische Organisationen, natürliche und juristische Personen (25%)
