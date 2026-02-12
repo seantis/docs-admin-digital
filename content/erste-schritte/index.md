@@ -5,12 +5,7 @@ description: Einstieg in admin.digital — Anmeldung, Navigation und erste Orien
 
 # Erste Schritte
 
-!!! warning "Entwurf"
-    Diese Seite befindet sich im Aufbau. Inhalte können sich jederzeit ändern.
-
-Willkommen bei admin.digital! Diese Seite hilft Ihnen beim Einstieg in die Plattform. In wenigen Schritten sind Sie startklar.
-
-## So starten Sie
+Willkommen bei admin.digital! Diese Seite hilft dir beim Einstieg in die Plattform. In wenigen Schritten bist du startklar.
 
 <div class="grid cards" markdown>
 
@@ -18,7 +13,7 @@ Willkommen bei admin.digital! Diese Seite hilft Ihnen beim Einstieg in die Platt
 
     ---
 
-    Ihr Kanton oder Ihre Gemeinde stellt Ihnen die Zugangsdaten zur Verfügung. Falls Sie noch keine Zugangsdaten erhalten haben, wenden Sie sich an Ihre zuständige Stelle.
+    Deine Verwaltung stellt dir die Zugangsdaten zur Verfügung. Falls du noch keine Zugangsdaten erhalten hast, wende dich an die zuständige Stelle.
 
     <!-- TODO: Link zu einer Seite mit Informationen zur Beantragung von Zugangsdaten -->
 
@@ -26,13 +21,13 @@ Willkommen bei admin.digital! Diese Seite hilft Ihnen beim Einstieg in die Platt
 
     ---
 
-    Melden Sie sich mit Ihren Zugangsdaten auf der Plattform an. Eine detaillierte Anleitung finden Sie auf der Seite [Anmeldung](anmeldung.md).
+    Melden dich mit deinen Zugangsdaten auf der Plattform an. Es gibt unterschiedliche Arten der Anmeldung. Bei Fragen melden dich dazu bei der zuständigen Stelle.
 
 -   :material-numeric-3-circle-outline:{ .lg .middle } **Plattform kennenlernen**
 
     ---
 
-    Nach der Anmeldung gelangen Sie zur Übersicht. Von dort aus können Sie auf die für Ihre Verwaltung freigeschalteten Module zugreifen.
+    Nach der Anmeldung gelangst du zur Übersicht. Von dort aus kannst auf alle aktiven Module zugreifen.
 
     <!-- TODO: Link zu einer Seite mit Übersicht der Benutzeroberfläche -->
 
@@ -40,17 +35,11 @@ Willkommen bei admin.digital! Diese Seite hilft Ihnen beim Einstieg in die Platt
 
     ---
 
-    Nutzen Sie die verfügbaren [Module](../module/index.md), um Ihre Verwaltungsaufgaben digital zu erledigen. Bei Fragen hilft Ihnen das [FAQ](../faq/index.md) oder der [Support](../kontakt.md).
+    Je nach Aufgabengebiet nutzt du unterschiedliche Module [Module](../module/index.md), um deine Verwaltungsaufgaben digital zu erledigen. Bei Fragen hilft dir das [FAQ](../faq/index.md) oder unser [Support](../kontakt.md) gerne weiter.
 
 </div>
 
-## Anleitungen
+---
 
-| Thema | Beschreibung |
-|---|---|
-| :material-login: [Anmeldung](anmeldung.md) | Anmeldung auf der Plattform, Passwort und Zwei-Faktor-Authentifizierung |
-
-<!-- TODO: Weitere Anleitungen ergänzen, z.B. Navigation, Profilverwaltung, Benachrichtigungen -->
-
-!!! tip "Brauchen Sie Hilfe?"
+!!! tip "Brauchst du Hilfe?"
     Falls Sie bei der Einrichtung Unterstützung benötigen, finden Sie Ansprechpartner auf der [Kontaktseite](../kontakt.md).
