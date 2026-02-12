@@ -11,7 +11,7 @@ description: Übersicht der verfügbaren Module und digitalen Services von admin
 admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse der öffentlichen Verwaltung in der Schweiz zugeschnitten sind. Jedes Modul deckt einen bestimmten Verwaltungsbereich ab und kann einzeln oder in Kombination eingesetzt werden.
 
 !!! note "Verfügbarkeit"
-    Welche Module Ihnen zur Verfügung stehen, hängt von der Konfiguration Ihres Kantons oder Ihrer Gemeinde ab. Nicht alle Module sind bei jeder Verwaltung freigeschaltet. Wenden Sie sich bei Fragen an Ihre zuständige Stelle oder an den [Support](../kontakt.md).
+    Welche Module dir zur Verfügung stehen, hängt von der Konfiguration deines Kantons oder deiner Gemeinde ab. Nicht alle Module sind bei jeder Verwaltung freigeschaltet. Wende dich bei Fragen an deine zuständige Stelle oder an den [Support](../kontakt.md).
 
 ## Verfügbare Module
 
@@ -23,7 +23,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     ---
 
-    Zentrale Plattform für die digitale Verwaltungsarbeit. Verwalten Sie Geschäfte, Aufgaben und Prozesse an einem Ort.
+    Zentrale Plattform für die digitale Verwaltungsarbeit. Verwalte Geschäfte, Aufgaben und Prozesse an einem Ort.
 
     <!-- TODO: Link zur detaillierten Moduldokumentation ergänzen -->
     *Dokumentation folgt.*
@@ -68,7 +68,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     ---
 
-    Zusätzliche Module werden laufend entwickelt und hier dokumentiert. Bei Interesse an weiteren Modulen wenden Sie sich an den [Support](../kontakt.md).
+    Zusätzliche Module werden laufend entwickelt und hier dokumentiert. Bei Interesse an weiteren Modulen wende dich an den [Support](../kontakt.md).
 
 </div>
 
@@ -87,4 +87,4 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 Alle Module werden in **zertifizierten Schweizer Rechenzentren** betrieben und erfüllen die Anforderungen an [Datenschutz und Informationssicherheit](../datenschutz/index.md).
 
 !!! tip "Modul nicht gefunden?"
-    Falls Sie ein bestimmtes Modul suchen, das hier nicht aufgeführt ist, wenden Sie sich an Ihre zuständige IT-Stelle oder an den [Support](../kontakt.md). Das Angebot wird laufend erweitert.
+    Falls du ein bestimmtes Modul suchst, das hier nicht aufgeführt ist, wende dich an deine zuständige IT-Stelle oder an den [Support](../kontakt.md). Das Angebot wird laufend erweitert.

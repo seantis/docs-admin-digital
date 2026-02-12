@@ -42,4 +42,4 @@ Willkommen bei admin.digital! Diese Seite hilft dir beim Einstieg in die Plattfo
 ---
 
 !!! tip "Brauchst du Hilfe?"
-    Falls Sie bei der Einrichtung Unterstützung benötigen, finden Sie Ansprechpartner auf der [Kontaktseite](../kontakt.md).
+    Falls du bei der Einrichtung Unterstützung brauchst, findest du Ansprechpartner auf der [Kontaktseite](../kontakt.md).

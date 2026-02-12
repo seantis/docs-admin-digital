@@ -11,7 +11,7 @@ hide:
 
 **Informationen zu admin.digital: [https://www.admin.digital](https://www.admin.digital)**
 
-Diese Dokumentation richtet sich an Mitarbeitende aus der öffentlichen Verwaltung, die admin.digital im Alltag nutzen. Sie finden hier Anleitungen, Modulbeschreibungen und Antworten auf häufige Fragen.
+Diese Dokumentation richtet sich an Mitarbeitende aus der öffentlichen Verwaltung, die admin.digital im Alltag nutzen. Du findest hier Anleitungen, Modulbeschreibungen und Antworten auf häufige Fragen.
 
 Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [https://onegov.github.io/onegov-cloud/](https://onegov.github.io/onegov-cloud/)
 
