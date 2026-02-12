@@ -4,4 +4,11 @@
   {{ super() }}
   <script defer data-domain="docs.admin.digital"
           src="https://analytics.seantis.ch/js/script.js"></script>
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ page.title }} - {{ config.site_name }} - admin.digital">
+  <meta property="og:description" content="{{ config.site_description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:image" content="{{ config.site_url }}img/og-image.png">
 {% endblock %}

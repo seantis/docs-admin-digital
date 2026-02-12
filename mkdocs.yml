@@ -1,6 +1,7 @@
 site_name: "Benutzerhandbuch"
 site_url: https://docs.admin.digital
 docs_dir: content
+site_description: "Das Benutzerhandbuch für die admin.digital Plattform. Hier finden Sie Anleitungen, Tipps und Informationen zur Nutzung der verschiedenen Module und Funktionen."
 
 theme:
   name: material
