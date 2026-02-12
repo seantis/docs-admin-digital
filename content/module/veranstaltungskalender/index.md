@@ -5,7 +5,16 @@ description: Planung und Verwaltung von Veranstaltungen und Terminen
 
 # Veranstaltungskalender
 
-!!! warning "Entwurf"
-    Diese Seite befindet sich im Aufbau.
+Das Modul ermöglicht die zentrale Planung und Publikation von Veranstaltungen. Termine lassen sich strukturiert erfassen, verwalten und auf der Website übersichtlich veröffentlichen.
 
-Im Veranstaltungskalender planst, veröffentlichst und verwaltest du Veranstaltungen und Termine zentral an einem Ort.
+## Erfassung und Freigabe
+
+Über das Backend kann festgelegt werden, ob externe Personen Veranstaltungen vorschlagen dürfen. Eingereichte Vorschläge werden durch die Verwaltung geprüft und bei Bedarf freigeschaltet.
+
+## Veröffentlichung und Archiv
+
+Die Publikation von Veranstaltungen kann terminiert werden. Vergangene Einträge werden automatisch archiviert und können bei Bedarf reaktiviert werden.
+
+## Exportfunktionen
+
+Veranstaltungen lassen sich zusätzlich in Kalender exportieren, damit Termine auch in externen Kalenderanwendungen weiterverwendet werden können.

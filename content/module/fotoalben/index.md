@@ -5,7 +5,12 @@ description: Verwaltung und Veröffentlichung von Bildgalerien
 
 # Fotoalben
 
-!!! warning "Entwurf"
-    Diese Seite befindet sich im Aufbau.
+Mit dem Modul Fotoalben lassen sich Bilder strukturiert gruppieren und übersichtlich veröffentlichen. So können Inhalte thematisch gebündelt und für Besuchende attraktiv dargestellt werden.
 
-Mit dem Modul Fotoalben verwaltest und veröffentlichst du Bildgalerien für Veranstaltungen, Themen und Projekte.
+## Organisation der Bilder
+
+Bilder werden in einzelnen Alben verwaltet und können je nach Thema, Veranstaltung oder Projekt zusammengefasst werden. Dadurch bleibt die Bildpflege auch bei vielen Medien einfach und nachvollziehbar.
+
+## Darstellung auf der Website
+
+Jedes Fotoalbum kann direkt auf der Startseite oder auf anderen Seiten eingebunden werden. Bei Bedarf lassen sich Alben auch als Slider darstellen, um wichtige Bildinhalte prominent zu präsentieren.
