@@ -3,7 +3,7 @@ title: Beispiele Formulare (Formcode)
 description: Sammlung von Beispielen in Formcode für Formulare
 ---
 
-# Salmmung Beispiele Formcode für Formulare
+# Salmmung Beispiele Formcode
 
 Hier ist eine Sammlung von Formcode-Schnipseln als Beispiele für unterschiedliche Formulardefinitionen. Die Beispiele sind allgemein gehalten und können je nach Anforderunen einfach kopiert und angepasst werden.
 

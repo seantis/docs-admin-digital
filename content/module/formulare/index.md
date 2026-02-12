@@ -389,7 +389,7 @@ Auch ohne Preisaufschlag möglich:
 
 #### Rabatte
 
-Prozentuale Rabatte sind möglich:
+Prozentuale Rabatte sind ebenso möglich:
 
 ```
 Rabatt =
