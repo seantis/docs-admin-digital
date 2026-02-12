@@ -5,7 +5,10 @@ description: Antworten auf häufig gestellte Fragen zu admin.digital
 
 # FAQ
 
-Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital.
+Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Die FAQ unterstützt dich bei typischen Aufgaben im Alltag – von Anmeldung und Berechtigungen bis zu Formularen, Reservationen und Veranstaltungen.
+
+!!! info "Hinweis"
+    Diese FAQ wird laufend ergänzt und aktualisiert.
 
 ## Anmeldung und Berechtigungen
 

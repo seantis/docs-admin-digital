@@ -1,0 +1,11 @@
+.md-typeset .question>.admonition-title, .md-typeset .question>summary {
+    background-color: #ededed;
+}
+
+.md-typeset .admonition.question, .md-typeset details.question {
+    border-color: #d5d5d5;
+}
+
+.md-typeset .question>.admonition-title:before, .md-typeset .question>summary:before, .md-typeset .question>.admonition-title:after, .md-typeset .question>summary:after {
+    background-color: #898989;
+}
