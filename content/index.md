@@ -9,12 +9,11 @@ hide:
 
 **admin.digital** ist die Cloud-Plattform für die öffentliche Verwaltung der Schweiz. Sie unterstützt Kantone und Gemeinden bei der Digitalisierung ihrer Verwaltungsprozesse — sicher, zuverlässig und datenschutzkonform.
 
-Diese Dokumentation richtet sich an Mitarbeitende von Kantonen und Gemeinden, die admin.digital im Alltag nutzen. Sie finden hier Anleitungen, Modulbeschreibungen und Antworten auf häufige Fragen.
+Diese Dokumentation richtet sich an Mitarbeitende aus der öffentlichen Verwaltung, die admin.digital im Alltag nutzen. Sie finden hier Anleitungen, Modulbeschreibungen und Antworten auf häufige Fragen.
 
-!!! warning "Entwurf"
-    Diese Dokumentation befindet sich im Aufbau. Inhalte können sich jederzeit ändern.
+Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [https://onegov.github.io/onegov-cloud/](https://onegov.github.io/onegov-cloud/)
 
----
+## Überblick und nächste Schritte
 
 <div class="grid cards" markdown>
 
@@ -30,7 +29,7 @@ Diese Dokumentation richtet sich an Mitarbeitende von Kantonen und Gemeinden, di
 
     ---
 
-    Übersicht der verfügbaren Module und digitalen Services für Ihre Verwaltung.
+    Übersicht der verfügbaren Module und digitalen Services für die Verwaltung.
 
     [:octicons-arrow-right-24: Module entdecken](module/index.md)
 
@@ -46,13 +45,12 @@ Diese Dokumentation richtet sich an Mitarbeitende von Kantonen und Gemeinden, di
 
     ---
 
-    Support, Ansprechpartner und Informationen zum Verein OneGov.ch.
+    Support, Ansprechpartner und Informationen zur Trägerschaft
 
     [:octicons-arrow-right-24: Kontakt aufnehmen](kontakt.md)
 
 </div>
 
----
 
 ## Über admin.digital
 
@@ -63,12 +61,6 @@ Diese Dokumentation richtet sich an Mitarbeitende von Kantonen und Gemeinden, di
     ---
 
     admin.digital wird als Open-Source-Lösung durch den **Verein OneGov.ch** entwickelt. Transparenz und Zusammenarbeit stehen im Mittelpunkt.
-
--   :material-shield-lock-outline:{ .lg .middle } **Datenstandort Schweiz**
-
-    ---
-
-    Der Betrieb erfolgt ausschliesslich in **zertifizierten Schweizer Rechenzentren**. Ihre Daten verlassen die Schweiz nicht.
 
 -   :material-security:{ .lg .middle } **Informationssicherheit**
 
