@@ -1,4 +1,4 @@
-site_name: "Benutzerhandbuch admin.digital"
+site_name: "Benutzerhandbuch"
 site_url: https://docs.admin.digital
 docs_dir: content
 
@@ -9,7 +9,7 @@ theme:
   favicon: img/favicon.svg
   custom_dir: overrides
   font:
-    text: Source Sans Pro
+    text: Lato
     code: Source Code Pro
   palette:
     - scheme: default
