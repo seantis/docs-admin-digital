@@ -78,6 +78,7 @@ nav:
   - Digitale Services: services/index.md
   - Module:
       - module/index.md
+      - Formulare: module/formulare.md
   - Datenschutz: datenschutz/index.md
   - Neuerungen: neuerungen/index.md
   - FAQ:
