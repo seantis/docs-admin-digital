@@ -77,9 +77,18 @@ nav:
       - erste-schritte/index.md
   - Module:
       - module/index.md
-      - Formulare: 
+      - Formulare:
         - module/formulare/index.md
-        - Beispiele Formulare: module/formulare/beispiele.md   
+        - Beispiele Formcode: module/formulare/beispiele.md
+      - Online-Schalter: module/online-schalter/index.md
+      - Reservationen: module/reservationen/index.md
+      - Themen und News: module/themen-und-news/index.md
+      - Benutzerverwaltung: module/benutzerverwaltung/index.md
+      - Service Ticketing: module/service-ticketing/index.md
+      - Personenverzeichnis: module/personenverzeichnis/index.md
+      - Veranstaltungskalender: module/veranstaltungskalender/index.md
+      - Verzeichnisse: module/verzeichnisse/index.md
+      - Fotoalben: module/fotoalben/index.md
   - Neuerungen: neuerungen/index.md
   - FAQ:
       - faq/index.md

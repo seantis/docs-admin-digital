@@ -7,7 +7,6 @@ description: Übersicht der verfügbaren Module und digitalen Services von admin
 
 admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse der öffentlichen Verwaltung in der Schweiz zugeschnitten sind. Jedes Modul deckt einen bestimmten Verwaltungsbereich ab und kann einzeln oder in Kombination eingesetzt werden.
 
----
 
 <div class="grid cards" markdown>
 
