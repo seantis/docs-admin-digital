@@ -91,6 +91,7 @@ nav:
       - Veranstaltungskalender: module/veranstaltungskalender/index.md
       - Verzeichnisse: module/verzeichnisse/index.md
       - Fotoalben: module/fotoalben/index.md
+      - Suche: module/suche/index.md
   - Neuerungen: neuerungen/index.md
   - FAQ:
       - faq/index.md

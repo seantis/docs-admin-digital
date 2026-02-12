@@ -90,4 +90,11 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/fotoalben/)
 
+-   :material-image-search:{ .lg .middle } **Suche**
+
+    ---
+
+    Suchfunktion über den gesamten Inhalt oder auch eingeschränkt auf einzelne Themen.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/suche/)
 </div>
