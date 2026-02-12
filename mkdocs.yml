@@ -77,7 +77,9 @@ nav:
       - erste-schritte/index.md
   - Module:
       - module/index.md
-      - Formulare: module/formulare/index.md
+      - Formulare: 
+        - module/formulare/index.md
+        - Beispiele Formulare: module/formulare/beispiele.md   
   - Neuerungen: neuerungen/index.md
   - FAQ:
       - faq/index.md
