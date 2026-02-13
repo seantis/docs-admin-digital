@@ -35,7 +35,7 @@ Willkommen bei admin.digital! Diese Seite hilft dir beim Einstieg in die Plattfo
 
     ---
 
-    Je nach Aufgabengebiet nutzt du unterschiedliche Module [Module](../module/index.md), um deine Verwaltungsaufgaben digital zu erledigen. Bei Fragen hilft dir das [FAQ](../faq/index.md) oder unser [Support](../kontakt.md) gerne weiter.
+    Je nach Aufgabengebiet nutzt du unterschiedliche [Module](../module/index.md), um deine Verwaltungsaufgaben digital zu erledigen. Bei Fragen hilft dir das [FAQ](../faq/index.md) oder unser [Support](../kontakt.md) gerne weiter.
 
 </div>
 
