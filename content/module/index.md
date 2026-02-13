@@ -42,6 +42,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
     
     [:octicons-arrow-right-24: Mehr erfahren](/module/themen-und-news/)
 
+-   :material-email-outline:{ .lg .middle } **E-Mail Newsletter**
+
+    ---
+
+    Planung, Versand und Verwaltung von Newslettern für zielgerichtete Kommunikation.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/e-mail-newsletter/)
+
 -   :material-account-multiple:{ .lg .middle } **Benutzerverwaltung**
 
     ---
