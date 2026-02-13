@@ -15,6 +15,13 @@ Mit dem Modul «E-Mail Newsletter» erstellst, versendest und verwaltest du News
 - Verwaltung der Abbonnenten
 - Anmeldung / Abmeldung vom Newsletter
 
-## Typische Einsatzbereiche
+## Einsatzbereiche
 
 Der E-Mail Newsletter eignet sich insbesondere für die regelmässige Information zu aktuellen Themen und Veranstaltungen oder Publikationen.
+
+!!! warning "Abgrenzung von Newsletter-Tools"
+    Der Newsletter auf dem Portal unterscheidet sich in einem wesentlichen Punkt von allgemeinen Newsletter-Tools. Mit dem integrierten Newsletter werden ausschliesslich Inhalte verschickt, die auf der Website erstellt und publiziert wurden – also namentlich News und Veranstaltungen.
+
+## Weiterführende Anleitung
+
+- [Newsletter erstellen und verschicken](/module/e-mail-newsletter/erstellen-und-verschicken/)

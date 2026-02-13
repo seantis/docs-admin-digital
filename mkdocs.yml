@@ -85,7 +85,9 @@ nav:
       - Online-Schalter: module/online-schalter/index.md
       - Reservationen: module/reservationen/index.md
       - Themen und News: module/themen-und-news/index.md
-      - E-Mail Newsletter: module/e-mail-newsletter/index.md
+      - E-Mail Newsletter:
+        - module/e-mail-newsletter/index.md
+        - Newsletter erstellen und verschicken: module/e-mail-newsletter/erstellen-und-verschicken.md
       - Benutzerverwaltung: module/benutzerverwaltung/index.md
       - Service Ticketing: module/service-ticketing/index.md
       - Personenverzeichnis: module/personenverzeichnis/index.md
