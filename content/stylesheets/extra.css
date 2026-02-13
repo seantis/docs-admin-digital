@@ -1,11 +1,15 @@
 .md-typeset .question>.admonition-title, .md-typeset .question>summary {
-    background-color: #ededed;
+    background-color: var(--md-default-fg-color--lightest);
 }
 
 .md-typeset .admonition.question, .md-typeset details.question {
-    border-color: #d5d5d5;
+    border-color: var(--md-default-fg-color--lighter);
+}
+
+.md-typeset details.question[open] {
+    background-color: var(--md-default-bg-color);
 }
 
 .md-typeset .question>.admonition-title:before, .md-typeset .question>summary:before, .md-typeset .question>.admonition-title:after, .md-typeset .question>summary:after {
-    background-color: #898989;
+    background-color: var(--md-default-fg-color--light);
 }

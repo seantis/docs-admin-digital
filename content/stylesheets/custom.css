@@ -27,7 +27,7 @@
 .md-content article h1 {
     font-weight: 600;
     margin-bottom: 1rem;
-    color: #212529;
+    color: var(--md-default-fg-color);
 }
 
 .md-content article h2 {
