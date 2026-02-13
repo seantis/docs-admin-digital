@@ -30,6 +30,8 @@ Die Suchfunktion unterstützt folgende Operatoren:
 | `or` | ODER-Verknüpfung: Mindestens ein Begriff muss vorkommen | `formular or reservation` |
 | `-` | Negation: Nachfolgender Begriff wird ausgeschlossen | `formular -reservation` |
 
+Natürlich wird die Negation bei Wörtern mit Bindestrich z.B. Kopf-an-Kopf-Rennen nicht angewendet.
+
 !!! info "Kombination von Operatoren"
     Operatoren können kombiniert werden, um komplexere Suchabfragen zu erstellen.
 
