@@ -39,6 +39,8 @@ Willkommen bei admin.digital! Diese Seite hilft dir beim Einstieg in die Plattfo
 
 </div>
 
+![Startseite](../img/screenshots/frontpage.png)
+
 ---
 
 !!! tip "Brauchst du Hilfe?"
