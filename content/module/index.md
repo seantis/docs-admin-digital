@@ -98,6 +98,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/datensparsamkeit/)
 
+-   :material-chart-line:{ .lg .middle } **Analytics**
+
+    ---
+
+    Datenschutzfreundliche Analytics mit Plausible (Open Source, selbstgehostet, ohne Cookies).
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/analytics/)
+
 -   :material-card-account-details-outline:{ .lg .middle } **Personenverzeichnis**
 
     ---

@@ -94,6 +94,7 @@ nav:
       - Benutzerverwaltung: module/benutzerverwaltung/index.md
       - Service Ticketing: module/service-ticketing/index.md
       - Datensparsamkeit: module/datensparsamkeit/index.md
+      - Analytics: module/analytics/index.md
       - Personenverzeichnis: module/personenverzeichnis/index.md
       - Veranstaltungskalender: module/veranstaltungskalender/index.md
       - Verzeichnisse: module/verzeichnisse/index.md
