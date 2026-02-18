@@ -378,6 +378,9 @@ Grösse =
 
 Mit `!` wird Kreditkartenzahlung verpflichtend:
 
+!!! info "Online Bezahlung"
+    Details zur Einrichtung und zu unterstützten Zahlungsanbietern findest du im Modul **[Online Bezahlung](/module/online-bezahlung/)**.
+
 ```
 Lieferung (5 CHF!)
 ```
