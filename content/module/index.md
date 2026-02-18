@@ -90,11 +90,19 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/service-ticketing/)
 
+-   :material-file-send-outline:{ .lg .middle } **Schnittstelle GEVER**
+
+    ---
+
+    Dokumente können direkt aus Tickets an ein GEVER-System übertragen werden.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/gever/)
+
 -   :material-chat-outline:{ .lg .middle } **Chat**
 
     ---
 
-    Beantworte Anliegen schnell per Chat und erstelle bei Bedarf direkt ein Ticket aus dem Chat-Verlauf.
+    Anliegen werden per Chat bearbeitet. Bei Bedarf wird ein Ticket direkt aus dem Chat-Verlauf erstellt.
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/chat/)
 
