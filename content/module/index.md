@@ -122,6 +122,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/analytics/)
 
+-   :material-map-outline:{ .lg .middle } **Karten**
+
+    ---
+
+    Interaktive Karten werden über verschiedene Kartenanbieter bereitgestellt.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/karten/)
+
 -   :material-card-account-details-outline:{ .lg .middle } **Personenverzeichnis**
 
     ---

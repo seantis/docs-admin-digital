@@ -97,6 +97,7 @@ nav:
       - Chatbot (RAG): module/chatbot/index.md
       - Datensparsamkeit: module/datensparsamkeit/index.md
       - Analytics: module/analytics/index.md
+      - Karten: module/karten/index.md
       - Personenverzeichnis: module/personenverzeichnis/index.md
       - Veranstaltungskalender: module/veranstaltungskalender/index.md
       - Verzeichnisse: module/verzeichnisse/index.md
