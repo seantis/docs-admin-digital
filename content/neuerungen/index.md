@@ -6,51 +6,153 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 # Neuerungen
 
 !!! tip "Komplettes Changelog"
-    EntwicklerInnen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
+    Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
 
 ---
 
-## 2026.5
+# 2026.7
 
-Veröffentlicht am 10.02.2026.
+## Neuerungen
 
-In diesem Update wurden vor allem Stabilität, Sicherheit und Bedienbarkeit verbessert. Die Suche wurde an mehreren Stellen präziser, und Verfügbarkeiten werden für Nutzerinnen und Nutzer verständlicher dargestellt.
+### Feriennet
+- Verbesserte Ladegeschwindigkeit der Startseite
 
-Zusätzlich wurden verschiedene Fehler behoben, unter anderem bei Zahlungen, bei der E-Mail-Kommunikation im Ticketing sowie bei der Darstellung von Bildern. Auch Abstimmungsresultate werden in komplexen Fällen klarer und getrennt angezeigt.
+---
 
-## 2026.4
+# 2026.6
 
-Veröffentlicht am 30.01.2026.
+## Neuerungen
 
-Der Schwerpunkt lag auf technischen Korrekturen und höherer Zuverlässigkeit im Hintergrund. Verzeichnisse arbeiten stabiler, Validierungen wurden verbessert und Sicherheitsregeln weiter verschärft.
+### Allgemein
+- Verbesserter Beschreibungstext für Kartenkonfiguration in Verzeichnissen
 
-Für Nutzerinnen und Nutzer bedeutet das vor allem einen robusteren Betrieb und weniger fehleranfällige Abläufe.
+### ElectionDay
+- Verbesserte Darstellung von Antrag, Gegenantrag und Stichentscheid
 
-## 2026.3
+## Behobene Fehler
 
-Veröffentlicht am 29.01.2026.
+### Allgemein
+- Fehlendes Icon im MwSt.-Einstellungsmenü behoben
+- Darstellungsfehler im Dashboard bei nicht verfügbaren Web-Statistiken behoben
 
-Dieses Update bringt Verbesserungen bei der Ressourcenverwaltung und bei der Darstellung in der Belegungsansicht. Zusätzlich wurden kleinere Fehler behoben, damit Hinweise und Verfügbarkeiten klarer und konsistenter angezeigt werden.
+### ElectionDay
+- Fehlende Einrückung bei komplexen Abstimmungen ohne Resultate behoben
 
-Ausserdem wurde die Suche erweitert und das Arbeiten mit Newslettern vereinfacht.
+---
 
-## 2026.2
+# 2026.5
 
-Veröffentlicht am 23.01.2026.
+## Neuerungen
 
-Im Mittelpunkt standen technische Aktualisierungen im Hintergrund sowie Korrekturen bei der Darstellung von Bildern. Zudem wurde die Verarbeitung von Formularen robuster gemacht, insbesondere in Fällen mit fehlenden Dokumenten.
+### Allgemein
+- Suchleiste im Startseiten-Slider und -Video verfügbar
+- Reservierungsslots ausserhalb des Buchungsfensters zeigen keine irreführende Verfügbarkeitsanzeige mehr
 
-## 2026.1
+### Landsgemeinde
+- Suchergebnisse können nach Datumsbereich gefiltert werden
 
-Veröffentlicht am 16.01.2026.
+### Wab
+- Ergebnisse von Antrag, Gegenantrag und Stichentscheid bei komplexen Abstimmungen separat dargestellt
 
-Dieses Release enthält viele grundlegende Verbesserungen in mehreren Bereichen der Plattform. Im Fokus standen Sicherheit, Stabilität und eine bessere technische Basis für kommende Erweiterungen.
+## Behobene Fehler
 
-Für Anwenderinnen und Anwender sind besonders relevant:
+### Allgemein
+- Darstellungsfehler bei Bildern behoben
+- Fehler bei Stripe/Datatrans-Zahlungen (Sicherheitsrichtlinien) behoben
+- Fehler bei Reservierungssperren ohne gesetzten Grund behoben
+- Fehler beim Versand von Ticket-E-Mails behoben
 
-- Verbesserte Zuverlässigkeit bei E-Mails und Ticket-Kommunikation
-- Korrekturen bei Bilddarstellung und Navigation
-- Erweiterungen bei Reservationen und Belegungsfunktionen
-- Verbesserungen bei Verzeichnissen, Wahldaten und verschiedenen Fachmodulen
+### Feriennet
+- Darstellungsfehler bei Zeiträumen behoben
 
-Insgesamt wurde die Plattform mit diesem Release breiter modernisiert und für den laufenden Betrieb weiter stabilisiert.
+---
+
+# 2026.4
+
+## Neuerungen
+
+### Allgemein
+- Verbesserte Validierung von iFrame-Domains
+
+## Behobene Fehler
+
+### Allgemein
+- Absturz bei der Migration von Verzeichnissen beim Umbenennen von Auswahloptionen behoben
+
+### PAS
+- Validierung der Anwesenheit innerhalb eines Abrechnungslaufs korrigiert
+- Korrekte Abschlussverarbeitung der Anwesenheit für Kommissionen sichergestellt
+
+---
+
+# 2026.3
+
+## Neuerungen
+
+### Allgemein
+- Ressource-Wechsler in der Belegungsansicht hinzugefügt
+- Button für Auslastungsstatistiken in der Belegungsansicht hinzugefügt
+- Newsletter können nun kopiert werden
+- Italienischsprachige Suche (it_ch) unterstützt
+
+### Feriennet
+- Banner-Funktion hinzugefügt
+
+## Behobene Fehler
+
+### Allgemein
+- Fehlende Zugriffshinweise in Boardlets ergänzt
+- Fehler bei Reservierungssperren für nicht teilweise verfügbare Slots behoben
+
+---
+
+# 2026.2
+
+## Behobene Fehler
+
+### Allgemein
+- Darstellungsfehler bei Bildern (Hintergrundgrösse) behoben
+- Fehler beim Laden von Formularen ohne verknüpfte PDF-Datei behoben
+
+---
+
+# 2026.1
+
+## Neuerungen
+
+### Allgemein
+- Konfigurierbare Web-Analytics-Anbieter (statt freiem Code)
+- Umbenennung des Kontaktfelds in der Seitenleiste von Verzeichnissen
+- Verbesserte E-Mail-Thread-Gruppierung bei Ticket-Mails
+- Angenommene Reservierungen können von Admins nachträglich angepasst werden
+- Administrative Reservierungssperren im Belegungskalender
+- Beim Löschen von Ressourcen werden archivierte Tickets mit ungültigen Datumsfeldern korrekt behandelt
+- Letzter Login der Benutzer wird explizit gespeichert
+
+### ElectionDay
+- Karten- und Gemeindedaten für 2026 hinzugefügt
+
+### Feriennet
+- Schmale Banner für E-Mails hinzugefügt
+
+### PAS
+- Längere Timeouts für externe API-Aufrufe
+
+## Behobene Fehler
+
+### Allgemein
+- Fehler bei doppeltem E-Mail-Header behoben
+- Absturz beim Rechnungsexport mit vielen Ticket-Gruppen behoben
+- Fehler beim Schliessen der Seitennavigation behoben
+- Darstellungsfehler bei bestimmten Links behoben
+- Fehler bei der Bildauswahl behoben
+
+### ElectionDay
+- Gemeinde- und Quartierdaten für 2026 korrigiert
+
+### Feriennet
+- Reihenfolge der Angebote im Angebots-Widget korrigiert
+- Fehler beim „Mehr anzeigen"-Filter behoben
+
+### PAS
+- Performance-Fehler (N+1-Abfrage) behoben
