@@ -27,6 +27,7 @@ Die Suchfunktion unterstützt folgende Operatoren:
 | Operator | Funktion | Beispiel |
 |----------|----------|----------|
 | (Standard) | UND-Verknüpfung: Alle Begriffe müssen vorkommen | `formular reservation` |
+| `"Satz mit Wortlaut"` | Der eingeschlossene Satz muss genau in dieser Wortreihenfolge vorkommen | `"formular mit reservation"` |
 | `or` | ODER-Verknüpfung: Mindestens ein Begriff muss vorkommen | `formular or reservation` |
 | `-` | Negation: Nachfolgender Begriff wird ausgeschlossen | `formular -reservation` |
 
