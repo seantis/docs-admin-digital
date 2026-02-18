@@ -5,13 +5,13 @@ description: Umfragen erstellen, auswerten und Resultate herunterladen
 
 # Umfragen
 
-Mit dem Modul **Umfragen** kannst du Umfragen erstellen und veröffentlichen. Die Umfrage-Formulare definierst du **analog zu den Formularen**.
+Mit dem Modul **Umfragen** können Umfragen erstellt und veröffentlicht werden. Die Umfrage-Formulare werden **analog zu den Formularen** definiert.
 
 ## Definition der Umfrage
 
-Die Felder und Optionen einer Umfrage definierst du wie bei [Formularen](/module/formulare/). So kannst du bestehende Muster und Feldtypen wiederverwenden.
+Die Felder und Optionen einer Umfrage werden wie bei [Formularen](/module/formulare/) definiert. So können bestehende Muster und Feldtypen wiederverwendet werden.
 
 ## Abgrenzung von Formularen
 
 - **Keine Ticket-Erstellung**: Bei Umfragen wird kein Ticket erstellt.
-- **Resultate herunterladen**: Die Resultate kannst du direkt herunterladen.
+- **Resultate herunterladen**: Die Resultate können direkt heruntergeladen werden.

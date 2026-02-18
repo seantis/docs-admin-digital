@@ -30,7 +30,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     ---
 
-    Erstelle Umfragen analog zu Formularen – ohne Ticket-Erstellung. Die Resultate kannst du direkt herunterladen.
+    Umfragen werden analog zu Formularen definiert – ohne Ticket-Erstellung. Die Resultate können direkt heruntergeladen werden.
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/umfragen/)
 
@@ -38,7 +38,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     ---
 
-    Überprüfe interne und externe Links – auch solche, die auf andere Seiten führen.
+    Interne und externe Links werden überprüft – auch solche, die auf andere Seiten führen.
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/link-pruefung/)
 
@@ -102,7 +102,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     ---
 
-    Lege Aufbewahrungsfristen fest, damit Tickets automatisch archiviert oder gelöscht werden.
+    Aufbewahrungsfristen werden festgelegt, damit Tickets automatisch archiviert oder gelöscht werden.
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/datensparsamkeit/)
 
