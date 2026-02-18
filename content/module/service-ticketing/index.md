@@ -24,7 +24,7 @@ Der Ablauf ist klar definiert und orientiert sich an den Verwaltungsprozessen. D
 
 Das Modul reduziert Medienbrüche, weil Meldungen zentral erfasst und ohne Systemwechsel bearbeitet werden können. Gleichzeitig verbessert es die Zusammenarbeit zwischen den beteiligten Stellen, da alle Informationen an einem Ort dokumentiert sind.
 
-Ein weiterer Vorteil ist die **automatische Statusinformation**: Kundinnen und Kunden werden über Statusänderungen (z. B. "eingegangen", "in Bearbeitung", "erledigt") informiert, wodurch Rückfragen reduziert und die Transparenz erhöht wird.
+Durch die **automatische Statusinformation** werden Kundinnen und Kunden über Statusänderungen (z. B. "eingegangen", "in Bearbeitung", "erledigt") informiert. Dadurch werden Rückfragen reduziert und die Transparenz erhöht.
 
 ## Textbausteine
 
@@ -39,7 +39,7 @@ Typische Einsatzbereiche sind zum Beispiel:
 
 ## Archivierung
 
-Tickets können nach Abschluss **archiviert** werden. Die Fristen dafür kannst du auf der Plattform definieren.
+Tickets können nach Abschluss **archiviert** werden. Die Fristen dafür können in den Einstellungen definiert werden.
 
 Details dazu findest du im Modul [Datensparsamkeit](/module/datensparsamkeit/).
 
