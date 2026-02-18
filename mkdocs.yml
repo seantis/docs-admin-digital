@@ -93,6 +93,7 @@ nav:
         - Newsletter erstellen und verschicken: module/e-mail-newsletter/erstellen-und-verschicken.md
       - Benutzerverwaltung: module/benutzerverwaltung/index.md
       - Service Ticketing: module/service-ticketing/index.md
+      - Chat: module/chat/index.md
       - Datensparsamkeit: module/datensparsamkeit/index.md
       - Analytics: module/analytics/index.md
       - Personenverzeichnis: module/personenverzeichnis/index.md
