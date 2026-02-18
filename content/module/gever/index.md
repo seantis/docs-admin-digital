@@ -5,7 +5,7 @@ description: Tickets und Dokumente per Klick an GEVER-Systeme übertragen
 
 # Schnittstelle GEVER
 
-Die OneGov GEVER API ermöglicht die Anbindung an GEVER-Systeme. Dadurch können Dokumente direkt aus Tickets an das Geschäftsverwaltungssystem übertragen werden.
+Die OneGov GEVER API ermöglicht die Anbindung an GEVER-Systeme. Dadurch können Dokumente direkt aus [Service Tickets](/module/service-ticketing/) an das Geschäftsverwaltungssystem übertragen werden.
 
 In Tickets steht dafür die Option **„Hochladen auf GEVER“** zur Verfügung.
 
