@@ -106,6 +106,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/chatbot/)
 
+-   :material-certificate-outline:{ .lg .middle } **Digitale Siegel**
+
+    ---
+
+    Dokumente werden rechtsgültig digital gesiegelt (ZertES) – inkl. Integritäts- und Herkunftsnachweis.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/digitale-siegel/)
+
 -   :material-shield-lock-outline:{ .lg .middle } **Datensparsamkeit**
 
     ---
