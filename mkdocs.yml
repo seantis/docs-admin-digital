@@ -83,6 +83,7 @@ nav:
         - module/formulare/index.md
         - Beispiele Formcode: module/formulare/beispiele.md
       - Online-Schalter: module/online-schalter/index.md
+      - Umfragen: module/umfragen/index.md
       - Online Bezahlung: module/online-bezahlung/index.md
       - Reservationen: module/reservationen/index.md
       - Themen und News: module/themen-und-news/index.md

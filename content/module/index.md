@@ -26,6 +26,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/online-schalter/)
 
+-   :material-poll:{ .lg .middle } **Umfragen**
+
+    ---
+
+    Erstelle Umfragen analog zu Formularen – ohne Ticket-Erstellung. Die Resultate kannst du direkt herunterladen.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/umfragen/)
+
 -   :material-calendar-outline:{ .lg .middle } **Reservationen**
 
     ---
