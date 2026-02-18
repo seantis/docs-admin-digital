@@ -94,7 +94,7 @@ nav:
       - Benutzerverwaltung: module/benutzerverwaltung/index.md
       - Service Ticketing: module/service-ticketing/index.md
       - Chat: module/chat/index.md
-      - Chatbot (RAG): module/chatbot/index.md
+      - Chatbot (RAG) (BETA): module/chatbot/index.md
       - Datensparsamkeit: module/datensparsamkeit/index.md
       - Analytics: module/analytics/index.md
       - Karten: module/karten/index.md

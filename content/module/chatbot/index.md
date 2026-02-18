@@ -1,9 +1,12 @@
 ---
-title: Chatbot (RAG)
+title: Chatbot (RAG) (BETA)
 description: KI-Chatbot mit Retrieval-Augmented Generation auf Basis der Portal-Inhalte
 ---
 
-# Chatbot (RAG)
+# Chatbot (RAG) (BETA)
+
+!!! note "BETA"
+	Dieses Modul befindet sich in der Beta-Phase. Funktionen und Verhalten können sich noch ändern.
 
 Digitale Gemeindeportale stehen vor der Herausforderung, grosse Mengen an Informationen aktuell, korrekt und einfach zugänglich bereitzustellen. Genau hier setzt der **Chatbot (RAG)** an. **RAG** steht für *Retrieval-Augmented Generation*. Die Technologie wird insbesondere bei intelligenten Chatbots und Frage-Antwort-Systemen eingesetzt. Im Unterschied zu klassischen KI-Modellen, die ausschliesslich auf ihrem trainierten Wissen basieren, kombiniert ein RAG-System dieses Wissen mit aktuellen, Inhalten aus einem Wissensspeicher.
 

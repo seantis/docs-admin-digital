@@ -98,7 +98,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/chat/)
 
--   :material-robot-outline:{ .lg .middle } **Chatbot (RAG)**
+-   :material-robot-outline:{ .lg .middle } **Chatbot (RAG) (BETA)**
 
     ---
 
