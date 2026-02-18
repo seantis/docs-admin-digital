@@ -34,3 +34,9 @@ Typische Einsatzbereiche sind zum Beispiel:
 - Hinweise zu Fristen oder benötigten Unterlagen
 - Abschlussmeldungen bei erledigten Tickets
 
+## Archivierung
+
+Tickets können nach Abschluss **archiviert** werden. Die Fristen dafür kannst du auf der Plattform definieren.
+
+Details dazu findest du im Modul [Datensparsamkeit](/module/datensparsamkeit/).
+

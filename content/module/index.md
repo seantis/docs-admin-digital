@@ -90,6 +90,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/service-ticketing/)
 
+-   :material-shield-lock-outline:{ .lg .middle } **Datensparsamkeit**
+
+    ---
+
+    Lege Aufbewahrungsfristen fest, damit Tickets automatisch archiviert oder gelöscht werden.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/datensparsamkeit/)
+
 -   :material-card-account-details-outline:{ .lg .middle } **Personenverzeichnis**
 
     ---

@@ -1,7 +1,7 @@
 site_name: "Benutzerhandbuch"
 site_url: https://docs.admin.digital
 docs_dir: content
-site_description: "Das Benutzerhandbuch für die admin.digital Plattform. Hier finden Sie Anleitungen, Tipps und Informationen zur Nutzung der verschiedenen Module und Funktionen."
+site_description: "Das Benutzerhandbuch für die admin.digital Plattform. Hier findest du Anleitungen, Tipps und Informationen zur Nutzung der verschiedenen Module und Funktionen."
 
 theme:
   name: material
@@ -93,6 +93,7 @@ nav:
         - Newsletter erstellen und verschicken: module/e-mail-newsletter/erstellen-und-verschicken.md
       - Benutzerverwaltung: module/benutzerverwaltung/index.md
       - Service Ticketing: module/service-ticketing/index.md
+      - Datensparsamkeit: module/datensparsamkeit/index.md
       - Personenverzeichnis: module/personenverzeichnis/index.md
       - Veranstaltungskalender: module/veranstaltungskalender/index.md
       - Verzeichnisse: module/verzeichnisse/index.md
