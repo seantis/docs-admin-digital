@@ -13,15 +13,18 @@ Der Ablauf ist klar definiert und orientiert sich an den Verwaltungsprozessen. D
 
 ## Ticketprozess
 
-- Zuweisung des Tickets an die zuständige Dienststelle
+- Annehmen des Tickets durch die zuständige Person
+- Optionale Weitergabe des Tickets an eine andere Person (z. B. bei Stellvertretung oder falscher Zuweisung)
 - Bearbeitung des Tickets durch die verantwortliche Person
-- Rückfragen oder Ergänzungen direkt im Ticketverlauf
+- Optionale Rückfragen oder Ergänzungen direkt im Ticketverlauf
 - Abschluss des Tickets nach erledigter Bearbeitung
-- Wiedereröffnung bei Bedarf durch die Verwaltung
+- Optionale Wiedereröffnung
 
 ## Vorteile im Alltag
 
 Das Modul reduziert Medienbrüche, weil Meldungen zentral erfasst und ohne Systemwechsel bearbeitet werden können. Gleichzeitig verbessert es die Zusammenarbeit zwischen den beteiligten Stellen, da alle Informationen an einem Ort dokumentiert sind.
+
+Ein weiterer Vorteil ist die **automatische Statusinformation**: Kundinnen und Kunden werden über Statusänderungen (z. B. "eingegangen", "in Bearbeitung", "erledigt") informiert, wodurch Rückfragen reduziert und die Transparenz erhöht wird.
 
 ## Textbausteine
 
