@@ -34,6 +34,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/umfragen/)
 
+-   :material-link-variant:{ .lg .middle } **Link-Prüfung**
+
+    ---
+
+    Überprüfe interne und externe Links – auch solche, die auf andere Seiten führen.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/link-pruefung/)
+
 -   :material-calendar-outline:{ .lg .middle } **Reservationen**
 
     ---
