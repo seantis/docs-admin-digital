@@ -23,3 +23,14 @@ Der Ablauf ist klar definiert und orientiert sich an den Verwaltungsprozessen. D
 
 Das Modul reduziert Medienbrüche, weil Meldungen zentral erfasst und ohne Systemwechsel bearbeitet werden können. Gleichzeitig verbessert es die Zusammenarbeit zwischen den beteiligten Stellen, da alle Informationen an einem Ort dokumentiert sind.
 
+## Textbausteine
+
+Mit **Textbausteinen** kannst du wiederkehrende Texte auf der Plattform zentral definieren und in der Kommunikation nutzen. So standardisierst du Prozesse und sparst Zeit bei Antworten, Rückfragen oder Statusmeldungen.
+
+Typische Einsatzbereiche sind zum Beispiel:
+
+- Empfangsbestätigungen und Standardantworten
+- Rückfragen zu fehlenden Angaben
+- Hinweise zu Fristen oder benötigten Unterlagen
+- Abschlussmeldungen bei erledigten Tickets
+
