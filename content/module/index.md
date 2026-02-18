@@ -98,6 +98,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/chat/)
 
+-   :material-robot-outline:{ .lg .middle } **Chatbot (RAG)**
+
+    ---
+
+    KI-Chatbot mit Retrieval-Augmented Generation (RAG): Antworten basieren auf Portal-Inhalten und enthalten Quellen.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/chatbot/)
+
 -   :material-shield-lock-outline:{ .lg .middle } **Datensparsamkeit**
 
     ---
