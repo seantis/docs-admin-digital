@@ -10,117 +10,117 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
-# 2026.7
+## 2026.7
 
-## Neuerungen
+### Neuerungen
 
-### Feriennet
+#### Feriennet
 - Verbesserte Ladegeschwindigkeit der Startseite
 
 ---
 
-# 2026.6
+## 2026.6
 
-## Neuerungen
+### Neuerungen
 
-### Allgemein
+#### Allgemein
 - Verbesserter Beschreibungstext für Kartenkonfiguration in Verzeichnissen
 
-### ElectionDay
+#### ElectionDay
 - Verbesserte Darstellung von Antrag, Gegenantrag und Stichentscheid
 
-## Behobene Fehler
+### Behobene Fehler
 
-### Allgemein
+#### Allgemein
 - Fehlendes Icon im MwSt.-Einstellungsmenü behoben
 - Darstellungsfehler im Dashboard bei nicht verfügbaren Web-Statistiken behoben
 
-### ElectionDay
+#### ElectionDay
 - Fehlende Einrückung bei komplexen Abstimmungen ohne Resultate behoben
 
 ---
 
-# 2026.5
+## 2026.5
 
-## Neuerungen
+### Neuerungen
 
-### Allgemein
+#### Allgemein
 - Suchleiste im Startseiten-Slider und -Video verfügbar
 - Reservierungsslots ausserhalb des Buchungsfensters zeigen keine irreführende Verfügbarkeitsanzeige mehr
 
-### Landsgemeinde
+#### Landsgemeinde
 - Suchergebnisse können nach Datumsbereich gefiltert werden
 
-### Wab
+#### Wab
 - Ergebnisse von Antrag, Gegenantrag und Stichentscheid bei komplexen Abstimmungen separat dargestellt
 
-## Behobene Fehler
+### Behobene Fehler
 
-### Allgemein
+#### Allgemein
 - Darstellungsfehler bei Bildern behoben
 - Fehler bei Stripe/Datatrans-Zahlungen (Sicherheitsrichtlinien) behoben
 - Fehler bei Reservierungssperren ohne gesetzten Grund behoben
 - Fehler beim Versand von Ticket-E-Mails behoben
 
-### Feriennet
+#### Feriennet
 - Darstellungsfehler bei Zeiträumen behoben
 
 ---
 
-# 2026.4
+## 2026.4
 
-## Neuerungen
+### Neuerungen
 
-### Allgemein
+#### Allgemein
 - Verbesserte Validierung von iFrame-Domains
 
-## Behobene Fehler
+### Behobene Fehler
 
-### Allgemein
+#### Allgemein
 - Absturz bei der Migration von Verzeichnissen beim Umbenennen von Auswahloptionen behoben
 
-### PAS
+#### PAS
 - Validierung der Anwesenheit innerhalb eines Abrechnungslaufs korrigiert
 - Korrekte Abschlussverarbeitung der Anwesenheit für Kommissionen sichergestellt
 
 ---
 
-# 2026.3
+## 2026.3
 
-## Neuerungen
+### Neuerungen
 
-### Allgemein
+#### Allgemein
 - Ressource-Wechsler in der Belegungsansicht hinzugefügt
 - Button für Auslastungsstatistiken in der Belegungsansicht hinzugefügt
 - Newsletter können nun kopiert werden
 - Italienischsprachige Suche (it_ch) unterstützt
 
-### Feriennet
+#### Feriennet
 - Banner-Funktion hinzugefügt
 
-## Behobene Fehler
+### Behobene Fehler
 
-### Allgemein
+#### Allgemein
 - Fehlende Zugriffshinweise in Boardlets ergänzt
 - Fehler bei Reservierungssperren für nicht teilweise verfügbare Slots behoben
 
 ---
 
-# 2026.2
+## 2026.2
 
-## Behobene Fehler
+### Behobene Fehler
 
-### Allgemein
+#### Allgemein
 - Darstellungsfehler bei Bildern (Hintergrundgrösse) behoben
 - Fehler beim Laden von Formularen ohne verknüpfte PDF-Datei behoben
 
 ---
 
-# 2026.1
+## 2026.1
 
-## Neuerungen
+### Neuerungen
 
-### Allgemein
+#### Allgemein
 - Konfigurierbare Web-Analytics-Anbieter (statt freiem Code)
 - Umbenennung des Kontaktfelds in der Seitenleiste von Verzeichnissen
 - Verbesserte E-Mail-Thread-Gruppierung bei Ticket-Mails
@@ -129,30 +129,30 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 - Beim Löschen von Ressourcen werden archivierte Tickets mit ungültigen Datumsfeldern korrekt behandelt
 - Letzter Login der Benutzer wird explizit gespeichert
 
-### ElectionDay
+#### ElectionDay
 - Karten- und Gemeindedaten für 2026 hinzugefügt
 
-### Feriennet
+#### Feriennet
 - Schmale Banner für E-Mails hinzugefügt
 
-### PAS
+#### PAS
 - Längere Timeouts für externe API-Aufrufe
 
-## Behobene Fehler
+### Behobene Fehler
 
-### Allgemein
+#### Allgemein
 - Fehler bei doppeltem E-Mail-Header behoben
 - Absturz beim Rechnungsexport mit vielen Ticket-Gruppen behoben
 - Fehler beim Schliessen der Seitennavigation behoben
 - Darstellungsfehler bei bestimmten Links behoben
 - Fehler bei der Bildauswahl behoben
 
-### ElectionDay
+#### ElectionDay
 - Gemeinde- und Quartierdaten für 2026 korrigiert
 
-### Feriennet
+#### Feriennet
 - Reihenfolge der Angebote im Angebots-Widget korrigiert
 - Fehler beim „Mehr anzeigen"-Filter behoben
 
-### PAS
+#### PAS
 - Performance-Fehler (N+1-Abfrage) behoben
