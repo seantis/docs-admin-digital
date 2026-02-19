@@ -1,9 +1,9 @@
 ---
-title: Kontakt
+title: Kontakt & Support
 description: Kontaktinformationen und Support für admin.digital
 ---
 
-# Kontakt
+# Kontakt & Support
 
 Bei Fragen, Anregungen oder Problemen rund um admin.digital stehen wir gerne zu deiner Verfügung.
 

@@ -27,11 +27,19 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
 
     [:octicons-arrow-right-24: Jetzt starten](erste-schritte/index.md)
 
+-   :material-handshake-outline:{ .lg .middle } **Services**
+
+    ---
+
+    Übersicht der verfügbaren GovTech Services.
+
+    [:octicons-arrow-right-24: Services entdecken](services/index.md)
+
 -   :material-view-module-outline:{ .lg .middle } **Module**
 
     ---
 
-    Übersicht der verfügbaren Module und digitalen Services für die Verwaltung.
+    Übersicht der verfügbaren Module für die Verwaltung.
 
     [:octicons-arrow-right-24: Module entdecken](module/index.md)
 
@@ -43,13 +51,28 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
 
     [:octicons-arrow-right-24: Antworten finden](faq/index.md)
 
--   :material-email-outline:{ .lg .middle } **Kontakt**
+</div>
+
+## Kontakt & Neuerungen
+
+<div class="grid cards" markdown>
+
+-   :material-email-outline:{ .lg .middle } **Kontakt & Support**
 
     ---
 
     Support, Ansprechpartner und Informationen zur Trägerschaft
 
     [:octicons-arrow-right-24: Kontakt aufnehmen](kontakt.md)
+
+ -   :material-email-outline:{ .lg .middle } **Neuerungen & Releases**
+
+    ---
+
+    Informationen zu neuen Versionen und Funktionen
+
+    [:octicons-arrow-right-24: Kontakt aufnehmen](neuerungen.md)
+
 
 </div>
 
