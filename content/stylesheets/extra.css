@@ -55,12 +55,11 @@
     font-weight: 600;
     text-decoration: none;
     opacity: 0.9;
-    transition: opacity 140ms ease, gap 140ms ease;
+    transition: opacity 140ms ease;
 }
 
 .md-banner a:hover {
     opacity: 1;
-    gap: 0.45em;
     text-decoration: underline;
     text-underline-offset: 3px;
 }
