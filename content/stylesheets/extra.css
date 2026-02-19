@@ -38,6 +38,15 @@
     opacity: 0.6;
 }
 
+.header-contact-links .header-icon {
+    width: 0.85rem;
+    height: 0.85rem;
+    min-width: 0.85rem;
+    min-height: 0.85rem;
+    fill: currentColor;
+    opacity: 0.95;
+}
+
 .md-banner a {
     display: inline-flex;
     align-items: center;
