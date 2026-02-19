@@ -27,7 +27,7 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
 
     [:octicons-arrow-right-24: Jetzt starten](erste-schritte/index.md)
 
--   :material-handshake-outline:{ .lg .middle } **Services**
+-   :material-handshake-outline:{ .lg .middle } **GovTech Services**
 
     ---
 
@@ -35,7 +35,7 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
 
     [:octicons-arrow-right-24: Services entdecken](services/index.md)
 
--   :material-view-module-outline:{ .lg .middle } **Module**
+-   :material-view-module-outline:{ .lg .middle } **GovTech Module**
 
     ---
 
@@ -43,7 +43,7 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
 
     [:octicons-arrow-right-24: Module entdecken](module/index.md)
 
--   :material-frequently-asked-questions:{ .lg .middle } **FAQ**
+-   :material-frequently-asked-questions:{ .lg .middle } **Fragen & Antworten (FAQ)**
 
     ---
 
@@ -92,6 +92,6 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
 
     ---
 
-    Informationssicherheit und Datenschutz stehen an erster Stelle. Qualität und Informationssicherheit gehören seit der Gründung der [Seantis AG](http://www.seantis.ch) zu den Grundwerten. Die Firma hat ein [Managementsystem für Informationssicherheit](https://www.seantis.ch/portrait/informationssicherheit-iso-27001/) implementiert, welches gemäss ISO/IEC 27001:2022 zertifiziert ist und auditiert wird.
+    [Informationssicherheit und Datenschutz](https://www.admin.digital/datenschutz/) stehen an erster Stelle. Qualität und Informationssicherheit gehören seit der Gründung der [Seantis AG](http://www.seantis.ch) zu den Grundwerten. Die Firma hat ein [Managementsystem für Informationssicherheit](https://www.seantis.ch/portrait/informationssicherheit-iso-27001/) implementiert, welches gemäss ISO/IEC 27001:2022 zertifiziert ist und auditiert wird.
 
 </div>
