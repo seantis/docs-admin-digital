@@ -9,9 +9,7 @@ theme:
   logo: img/logo.svg
   favicon: img/favicon.svg
   custom_dir: overrides
-  font:
-    text: Lato
-    code: Source Code Pro
+  font: false
   palette:
     - scheme: default
       primary: custom
