@@ -32,11 +32,11 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/feriennet/)
 
--   :material-account-multiple:{ .lg .middle } **Koordination Dolmetschdienst**
+-   :material-account-multiple:{ .lg .middle } **Koordination Übersetzungsdienst**
 
 	---
 
-	Koordination von Dolmetschdienst-Anfragen und Einsätzen.
+	Koordination von Übersetzungsdienst-Anfragen und Einsätzen.
 	Unterstützt Aufgebot, Planung und Abrechnung.
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/dolmetschkoordination/)

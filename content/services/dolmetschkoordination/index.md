@@ -1,11 +1,11 @@
 ---
-title: Koordination Dolmetschdienst
-description: Koordination von Dolmetschdienst-Einsätzen, Anfragen und Zuteilungen
+title: Koordination Übersetzungsdienst
+description: Koordination von Übersetzungsdienst-Einsätzen, Anfragen und Zuteilungen
 ---
 
-# Koordination Dolmetschdienst
+# Koordination Übersetzungsdienst
 
-Mit diesem Service werden Dolmetschdienst-Anfragen koordiniert. Er unterstützt beim Aufgebot passender Dolmetscher:innen sowie bei der Nachverfolgbarkeit der Abwicklung.
+Mit diesem Service werden Übersetzungsdienst-Anfragen koordiniert. Er unterstützt beim Aufgebot passender Dolmetscher:innen sowie bei der Nachverfolgbarkeit der Abwicklung.
 
 ## Überblick
 
