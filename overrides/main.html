@@ -1,5 +1,15 @@
 {% extends "base.html" %}
 
+{% block announce %}
+  <div class="header-contact-links">
+    <a href="http://www.admin.digital" target="_blank" rel="noopener">www.admin.digital</a>
+    <span aria-hidden="true">|</span>
+    <a href="mailto:support@seantis.ch">support@seantis.ch</a>
+    <span aria-hidden="true">|</span>
+    <a href="tel:+41415112250">+41 41 511 22 50</a>
+  </div>
+{% endblock %}
+
 {% block extrahead %}
   {{ super() }}
   <script defer data-domain="docs.admin.digital"

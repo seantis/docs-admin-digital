@@ -1,3 +1,61 @@
+/* --------------------------------------------------------------------------
+   Header announcement bar – link to www.admin.digital
+   -------------------------------------------------------------------------- */
+
+.md-banner {
+    background-color: var(--md-primary-fg-color--dark);
+    color: #ffffff;
+    text-align: center;
+    padding: 0.35rem 1rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.02em;
+}
+
+.md-banner__inner {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.md-banner__inner > div {
+    width: 100%;
+    text-align: center;
+}
+
+.header-contact-links {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+}
+
+.header-contact-links > span {
+    opacity: 0.6;
+}
+
+.md-banner a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+    opacity: 0.9;
+    transition: opacity 140ms ease, gap 140ms ease;
+}
+
+.md-banner a:hover {
+    opacity: 1;
+    gap: 0.45em;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
 .md-typeset .question>.admonition-title, .md-typeset .question>summary {
     background-color: var(--md-default-fg-color--lightest);
 }
