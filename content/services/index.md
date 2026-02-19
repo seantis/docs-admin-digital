@@ -30,13 +30,13 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/feriennet/)
 
--   :material-account-multiple:{ .lg .middle } **Dolmetscherverwaltung**
+-   :material-account-multiple:{ .lg .middle } **Koordination Dolmetschdienst**
 
 	---
 
-	Verwaltung von Dolmetschenden und Einsätzen.
+	Koordination von Dolmetschenden und Einsätzen.
 
-	[:octicons-arrow-right-24: Mehr erfahren](/services/dolmetscherverwaltung/)
+	[:octicons-arrow-right-24: Mehr erfahren](/services/dolmetschkoordination/)
 
 -   :material-calendar-outline:{ .lg .middle } **Staatskalender**
 
