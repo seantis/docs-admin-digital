@@ -14,7 +14,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ### Neuerungen
 
-#### Feriennet
+#### Buchungsplattform Ferienangebote (Pro Juventute)
 - Verbesserte Ladegeschwindigkeit der Startseite
 
 ---
@@ -62,7 +62,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 - Fehler bei Reservierungssperren ohne gesetzten Grund behoben
 - Fehler beim Versand von Ticket-E-Mails behoben
 
-#### Feriennet
+#### Buchungsplattform Ferienangebote (Pro Juventute)
 - Darstellungsfehler bei Zeiträumen behoben
 
 ---
@@ -95,7 +95,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 - Newsletter können nun kopiert werden
 - Italienischsprachige Suche (it_ch) unterstützt
 
-#### Feriennet
+#### Buchungsplattform Ferienangebote (Pro Juventute)
 - Banner-Funktion hinzugefügt
 
 ### Behobene Fehler
@@ -132,7 +132,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 #### ElectionDay
 - Karten- und Gemeindedaten für 2026 hinzugefügt
 
-#### Feriennet
+#### Buchungsplattform Ferienangebote (Pro Juventute)
 - Schmale Banner für E-Mails hinzugefügt
 
 #### PAS
@@ -150,7 +150,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 #### ElectionDay
 - Gemeinde- und Quartierdaten für 2026 korrigiert
 
-#### Feriennet
+#### Buchungsplattform Ferienangebote (Pro Juventute)
 - Reihenfolge der Angebote im Angebots-Widget korrigiert
 - Fehler beim „Mehr anzeigen"-Filter behoben
 

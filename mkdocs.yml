@@ -79,6 +79,16 @@ nav:
       - erste-schritte/index.md
   - Services:
       - services/index.md
+      - Gemeindeportal: services/gemeindeportal/index.md
+      - Publikationen für Wahlen und Abstimmungen: services/publikationen-wahlen-abstimmungen/index.md
+      - Buchungsplattform Ferienangebote (Pro Juventute): services/feriennet/index.md
+      - Dolmetscherverwaltung: services/dolmetscherverwaltung/index.md
+      - Staatskalender: services/staatskalender/index.md
+      - Kursverwaltung: services/kursverwaltung/index.md
+      - Planauflage Baugesuche: services/planauflage-baugesuche/index.md
+      - Versammlungen (Landsgemeinde): services/versammlungen-landsgemeinde/index.md
+      - Datenportal Abstimmungen (Swissvotes): services/datenportal-abstimmungen-swissvotes/index.md
+      - Intranet: services/intranet/index.md
   - Module:
       - module/index.md
       - Formulare:
