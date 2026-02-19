@@ -11,6 +11,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 	---
 
 	Digitales Portal für Gemeinden.
+	Publiziert Informationen und bündelt Online-Dienstleistungen an einem Ort.
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/gemeindeportal/)
 
@@ -27,6 +28,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 	---
 
 	Buchungsplattform für Ferienangebote.
+	Inklusive Anmeldungen, Kapazitäten und administrativer Übersicht.
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/feriennet/)
 
@@ -34,7 +36,8 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	---
 
-	Koordination von Dolmetschenden und Einsätzen.
+	Koordination von Dolmetschdienst-Anfragen und Einsätzen.
+	Unterstützt Aufgebot, Planung und Abrechnung.
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/dolmetschkoordination/)
 
@@ -51,6 +54,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 	---
 
 	Verwaltung von Kursen, Terminen und Anmeldungen.
+	Mit Teilnehmendenlisten und administrativer Übersicht.
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/kursverwaltung/)
 
@@ -58,7 +62,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	---
 
-	Digitale Publikation von Unterlagen zur Planauflage von Baugesuchen.
+	Datenschutzkonforme Publikation von Unterlagen zur Planauflage von Baugesuchen.
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/planauflage-baugesuche/)
 
@@ -75,6 +79,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 	---
 
 	Bereitstellung und Auswertung von Abstimmungsdaten.
+	Mit Suche, Filter und Export für weiterführende Analysen.
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/datenportal-abstimmungen-swissvotes/)
 
