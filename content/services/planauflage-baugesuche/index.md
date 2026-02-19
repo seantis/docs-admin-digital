@@ -1,8 +1,15 @@
 ---
 title: Planauflage Baugesuche
-description: Planauflage Baugesuche als GovTech Service
+description: Digitale Publikation von Planauflagen und Unterlagen zu Baugesuchen
 ---
 
 # Planauflage Baugesuche
 
-Kurzbeschreibung des Services für die digitale Planauflage von Baugesuchen.
+Dieser Service ermöglicht die digitale Publikation von Unterlagen im Rahmen von Planauflagen zu Baugesuchen.
+Er unterstützt Gemeinden dabei, Dokumente datenschutzkonform bereitzustellen und die Information der Öffentlichkeit effizient umzusetzen.
+
+## Überblick
+
+- Planauflagen und Baugesuche datenschutzkonform publizieren
+- Unterlagen datenschutzkonform bereitstellen (Dokumente, Pläne, Anhänge)
+- Klare Struktur für Auffindbarkeit und Transparenz
