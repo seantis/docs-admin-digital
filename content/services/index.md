@@ -38,7 +38,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/dolmetschkoordination/)
 
--   :material-calendar-outline:{ .lg .middle } **Staatskalender**
+-   :material-sitemap-outline:{ .lg .middle } **Staatskalender**
 
 	---
 
@@ -54,7 +54,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/kursverwaltung/)
 
--   :material-file-document-outline:{ .lg .middle } **Planauflage Baugesuche**
+-   :material-hammer-wrench:{ .lg .middle } **Planauflage Baugesuche**
 
 	---
 
@@ -70,7 +70,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/versammlungen-landsgemeinde/)
 
--   :material-database-outline:{ .lg .middle } **Datenportal Abstimmungen (Swissvotes)**
+-   :material-ballot-outline:{ .lg .middle } **Datenportal Abstimmungen (Swissvotes)**
 
 	---
 
