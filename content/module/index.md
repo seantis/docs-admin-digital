@@ -18,7 +18,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/formulare/)
 
--   :material-desktop-classic:{ .lg .middle } **Online-Schalter**
+-   :material-cellphone:{ .lg .middle } **Online-Schalter**
 
     ---
 
@@ -58,7 +58,7 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/online-bezahlung/)
 
--   :material-dots-horizontal-circle-outline:{ .lg .middle } **Themen und News**
+-   :material-newspaper-variant-outline:{ .lg .middle } **Themen und News**
 
     ---
 

@@ -6,7 +6,7 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 <div class="grid cards" markdown>
 
--   :material-desktop-classic:{ .lg .middle } **Gemeindeportal**
+-   :material-cellphone:{ .lg .middle } **Gemeindeportal**
 
 	---
 
