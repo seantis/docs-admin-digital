@@ -13,3 +13,93 @@
 .md-typeset .question>.admonition-title:before, .md-typeset .question>summary:before, .md-typeset .question>.admonition-title:after, .md-typeset .question>summary:after {
     background-color: var(--md-default-fg-color--light);
 }
+
+/* --------------------------------------------------------------------------
+   "Grid cards" (e.g. Erste Schritte)
+   -------------------------------------------------------------------------- */
+
+.md-typeset .grid.cards {
+    --ad-digital-card-bg: var(--md-default-bg-color);
+    --ad-digital-card-border: var(--md-default-fg-color--lightest);
+    --ad-digital-card-bg-hover: var(--md-default-fg-color--lightest);
+    --ad-digital-card-border-hover: var(--md-default-fg-color--lighter);
+    margin-block: 1.5rem;
+}
+
+/* More breathing room between cards */
+.md-typeset .grid.cards > ul {
+    gap: 1.25rem !important;
+    row-gap: 1.25rem !important;
+    column-gap: 1.25rem !important;
+    padding: 0.5rem;
+}
+
+/* Some Material versions apply the grid to the container, not the list */
+.md-typeset .grid.cards {
+    gap: 1.25rem !important;
+    row-gap: 1.25rem !important;
+    column-gap: 1.25rem !important;
+}
+
+.md-typeset .grid.cards > ol {
+    gap: 1.25rem !important;
+    row-gap: 1.25rem !important;
+    column-gap: 1.25rem !important;
+    padding: 0.5rem;
+}
+
+@supports (background-color: color-mix(in srgb, white 50%, black)) {
+    .md-typeset .grid.cards {
+        --ad-digital-card-bg: color-mix(
+            in srgb,
+            var(--md-default-bg-color) 94%,
+            var(--md-default-fg-color) 6%
+        );
+        --ad-digital-card-bg-hover: color-mix(
+            in srgb,
+            var(--md-default-bg-color) 90%,
+            var(--md-default-fg-color) 10%
+        );
+        --ad-digital-card-border: color-mix(
+            in srgb,
+            var(--md-default-fg-color) 14%,
+            transparent
+        );
+        --ad-digital-card-border-hover: color-mix(
+            in srgb,
+            var(--md-default-fg-color) 22%,
+            transparent
+        );
+    }
+}
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+    background-color: var(--ad-digital-card-bg);
+    border: 1px solid var(--ad-digital-card-border);
+    border-radius: 0.75rem;
+    overflow: hidden;
+    transition: background-color 120ms ease, border-color 120ms ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+    background-color: var(--ad-digital-card-bg-hover);
+    border-color: var(--ad-digital-card-border-hover);
+    box-shadow: none !important;
+}
+
+/* Material may apply hover shadow to an anchor wrapper */
+.md-typeset .grid.cards > ul > li > a,
+.md-typeset .grid.cards > ol > li > a,
+.md-typeset .grid.cards > ul > li > a:hover,
+.md-typeset .grid.cards > ol > li > a:hover {
+    box-shadow: none !important;
+}
+
+/* Divider inside a card (the markdown ---) */
+.md-typeset .grid.cards > ul > li hr,
+.md-typeset .grid.cards > ol > li hr {
+    border-bottom-color: var(--ad-digital-card-border);
+    opacity: 1;
+}
