@@ -77,6 +77,8 @@ nav:
   - Startseite: index.md
   - Erste Schritte:
       - erste-schritte/index.md
+  - Services:
+      - services/index.md
   - Module:
       - module/index.md
       - Formulare:

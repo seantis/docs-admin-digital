@@ -1,9 +1,9 @@
 ---
-title: Module
-description: Übersicht der verfügbaren Module und digitalen Services von admin.digital
+title: GovTech Module
+description: Übersicht der verfügbaren Module von admin.digital
 ---
 
-# Module
+# GovTech Module
 
 admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse der öffentlichen Verwaltung in der Schweiz zugeschnitten sind. Jedes Modul deckt einen bestimmten Verwaltungsbereich ab und kann einzeln oder in Kombination eingesetzt werden.
 
