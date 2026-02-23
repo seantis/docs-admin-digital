@@ -58,6 +58,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 ---
 
 ## 2026.7
+*Veröffentlicht am 17.02.2026*
 
 ### Neuerungen
 
@@ -67,6 +68,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 ---
 
 ## 2026.6
+*Veröffentlicht am 16.02.2026*
 
 ### Neuerungen
 
@@ -88,6 +90,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 ---
 
 ## 2026.5
+*Veröffentlicht am 10.02.2026*
 
 ### Neuerungen
 
@@ -115,6 +118,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 ---
 
 ## 2026.4
+*Veröffentlicht am 30.01.2026*
 
 ### Neuerungen
 
@@ -133,6 +137,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 ---
 
 ## 2026.3
+*Veröffentlicht am 29.01.2026*
 
 ### Neuerungen
 
@@ -154,6 +159,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 ---
 
 ## 2026.2
+*Veröffentlicht am 23.01.2026*
 
 ### Behobene Fehler
 
@@ -164,6 +170,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 ---
 
 ## 2026.1
+*Veröffentlicht am 16.01.2026*
 
 ### Neuerungen
 
