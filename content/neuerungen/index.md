@@ -10,6 +10,53 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.10
+*Veröffentlicht am 20.02.2026*
+
+### Neuerungen
+
+#### Allgemein
+- MIME-Typ-Validierung bei Datei-Upload-Feldern in Formularen hinzugefügt
+
+#### Feriennet
+- Kontaktformular, Fotoalben und Helfen zur Hauptnavigation hinzugefügt
+
+### Behobene Fehler
+
+#### Wab
+- Verbessertes Fehlerhandling beim XML-Datei-Upload
+
+---
+
+## 2026.9
+*Veröffentlicht am 19.02.2026*
+
+### Neuerungen
+
+#### Feriennet
+- Aktualisierung der Startseiten-Vorlage
+
+#### PAS
+- Massenoperationen für kürzeste Sitzung hinzugefügt
+- Detailverbesserungen basierend auf Rückmeldungen
+
+### Behobene Fehler
+
+#### Allgemein
+- Formulardarstellung bei angehängten Dateien korrigiert
+
+#### Feriennet
+- Benutzerauswahl bei manueller Buchung wieder korrekt vorbelegt
+- Problem mit der Freiwilligenliste behoben: Neu geladene Angebots-Bedarfe konnten nicht zur Liste hinzugefügt werden
+---
+
+## 2026.8
+*Veröffentlicht am 17.02.2026*
+
+- Keine Änderungen
+
+---
+
 ## 2026.7
 
 ### Neuerungen
