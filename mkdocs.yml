@@ -80,7 +80,9 @@ nav:
       - Gemeindeportal: services/gemeindeportal/index.md
       - Publikationen für Wahlen und Abstimmungen: services/publikationen-wahlen-abstimmungen/index.md
       - Buchungsplattform Ferienangebote (Pro Juventute): services/feriennet/index.md
-      - Koordination Übersetzungsdienst: services/dolmetschkoordination/index.md
+      - Koordination Übersetzungsdienst:
+        - services/dolmetschkoordination/index.md
+        - Zeiterfassung: services/dolmetschkoordination/zeiterfassung.md
       - Staatskalender: services/staatskalender/index.md
       - Kursverwaltung: services/kursverwaltung/index.md
       - Planauflage Baugesuche: services/planauflage-baugesuche/index.md
