@@ -82,6 +82,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/benutzerverwaltung/)
 
+-   :material-account-key-outline:{ .lg .middle } **Kundenlogin (Password Less)**
+
+    ---
+
+    Sicherer Zugang ohne Passwort über Einmal-Link oder Verifizierungscode.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/kundenlogin-password-less/)
+
 -   :material-ticket-confirmation-outline:{ .lg .middle } **Service Ticketing**
 
     ---
@@ -145,6 +153,22 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
     Datenschutzfreundliche Analytics mit Plausible (Open Source, selbstgehostet, ohne Cookies).
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/analytics/)
+
+-   :material-database-outline:{ .lg .middle } **Open Government Data (ODG)**
+
+    ---
+
+    Verwaltungsdaten strukturiert bereitstellen, veröffentlichen und nachnutzen.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/open-government-data/)
+
+-   :material-api:{ .lg .middle } **Headless CMS**
+
+    ---
+
+    Inhalte zentral verwalten und kanalübergreifend über Schnittstellen bereitstellen.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/headless-cms/)
 
 -   :material-map-outline:{ .lg .middle } **Karten**
 
