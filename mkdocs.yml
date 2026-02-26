@@ -108,6 +108,7 @@ nav:
       - Chat: module/chat/index.md
       - Chatbot (RAG) (BETA): module/chatbot/index.md
       - Schnittstelle GEVER: module/gever/index.md
+      - Ratsinformationssystem (RIS): module/ratsinformationssystem/index.md
       - Digitale Siegel: module/digitale-siegel/index.md
       - Datensparsamkeit: module/datensparsamkeit/index.md
       - Analytics: module/analytics/index.md

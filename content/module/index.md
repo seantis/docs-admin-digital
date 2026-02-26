@@ -98,6 +98,14 @@ admin.digital bietet eine Reihe von Modulen, die speziell auf die Bedürfnisse d
 
     [:octicons-arrow-right-24: Mehr erfahren](/module/gever/)
 
+-   :material-gavel:{ .lg .middle } **Ratsinformationssystem (RIS)**
+
+    ---
+
+    Traktanden, Sitzungen und Beschlüsse zentral organisieren und transparent kommunizieren.
+
+    [:octicons-arrow-right-24: Mehr erfahren](/module/ratsinformationssystem/)
+
 -   :material-chat-outline:{ .lg .middle } **Chat**
 
     ---
