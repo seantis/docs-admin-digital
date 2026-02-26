@@ -5,7 +5,7 @@ description: Planung und Versand von Newslettern
 
 # E-Mail Newsletter
 
-Mit dem Modul «E-Mail Newsletter» erstellst, versendest und verwaltest du Newsletter zentral über die admin.digital Plattform. Inhalte kannst du strukturiert aufbauen und zielgruppengerecht kommunizieren.
+Mit dem Modul «E-Mail Newsletter» werden Newsletter zentral über die admin.digital Plattform erstellt, versendet und verwaltet. Inhalte können strukturiert aufgebaut und zielgruppengerecht kommuniziert werden.
 
 ## Funktionen
 

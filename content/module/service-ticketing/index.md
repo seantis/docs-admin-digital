@@ -5,7 +5,7 @@ description: Erfassung und Bearbeitung von Serviceanfragen
 
 # Service Ticketing
 
-Mit dem Modul Service Ticketing erfasst, priorisiert und bearbeitest du Serviceanfragen strukturiert und nachvollziehbar.
+Mit dem Modul Service Ticketing werden Serviceanfragen strukturiert und nachvollziehbar erfasst, priorisiert und bearbeitet.
 
 Die admin.digital Cloud bietet ein Ticketing-System für alle Daten, die über [Online-Formulare](/module/formulare/) übermittelt werden. Standardmässig sind alle Module, die Online-Formulare verwenden, in das Ticketing-System integriert.
 
@@ -28,7 +28,7 @@ Durch die **automatische Statusinformation** werden Kundinnen und Kunden über S
 
 ## Textbausteine
 
-Mit **Textbausteinen** kannst du wiederkehrende Texte auf der Plattform zentral definieren und in der Kommunikation nutzen. So standardisierst du Prozesse und sparst Zeit bei Antworten, Rückfragen oder Statusmeldungen.
+Mit **Textbausteinen** können wiederkehrende Texte auf der Plattform zentral definiert und in der Kommunikation genutzt werden. Dadurch werden Prozesse standardisiert und Zeit bei Antworten, Rückfragen oder Statusmeldungen gespart.
 
 Typische Einsatzbereiche sind zum Beispiel:
 
@@ -41,5 +41,5 @@ Typische Einsatzbereiche sind zum Beispiel:
 
 Tickets können nach Abschluss **archiviert** werden. Die Fristen dafür können in den Einstellungen definiert werden.
 
-Details dazu findest du im Modul [Datensparsamkeit](/module/datensparsamkeit/).
+Details dazu finden sich im Modul [Datensparsamkeit](/module/datensparsamkeit/).
 
