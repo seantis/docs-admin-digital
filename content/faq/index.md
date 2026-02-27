@@ -98,7 +98,7 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Di
 ??? question "Wie blende ich Dokumente und Links in der Sidebar ein oder aus?"
     So gehst du vor:
 
-    1. Öffne die gewünschte Inhaltsseite.
+    1. Öffne die gewünschte Inhaltsseite im Bearbeitungsmodus.
     2. Aktiviere oder deaktiviere im Abschnitt Dokumente die Option `<Dateilinks in der Seitenleiste anzeigen>`{=html}.
     3. Speichere die Seite.
 
@@ -216,7 +216,7 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Di
 
 ## Personenverzeichnis
 
-??? question "Ich finde das Personenverzeichnis nicht. Was kann ich tun?"
+??? question "Ich finde das Personenverzeichnis nicht."
     Falls kein Link gesetzt ist, kannst du das Verzeichnis direkt aufrufen:
 
     - `https://(domain-name)/people/`
@@ -224,6 +224,7 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Di
 ??? question "Wie füge ich Personen hinzu oder lösche sie?"
     So gehst du vor:
 
+    1. Gehe ins Personenverzeichnis, `https://(domain-name)/people/`
     1. Wähle `<Hinzufügen Person>`{=html}, um eine neue Person zu erfassen.
     2. Zum Löschen öffnest du die Person und wählst `<Löschen>`{=html}.
     3. Bestätige die Sicherheitsabfrage.
