@@ -294,3 +294,22 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Di
     1. Öffne `<Verwaltung>`{=html} → `<Einstellungen>`{=html} → `<Veranstaltungen>`{=html}.
     2. Aktiviere `<Veranstaltung vorschlagen>`{=html}.
     3. Speichere mit `<Absenden>`{=html}.
+
+??? question "Wie erstelle ich eine Veranstaltung mit Wiederholung?"
+
+    Für wöchentliche Wiederholung:
+
+    1. Öffne `<Veranstaltungen>`{=html}.
+    2. Wähle `<Hinzufügen>`{=html} → `<Veranstaltung>`{=html}.
+    3. Fülle die nötigen Felder aus und aktiviere im Abschnitt `<Wiederholung>`{=html} `<Wöchentlich>`{=html}.
+    4. Konfiguriere die gewünschten Wochentage und speichere mit `<Absenden>`{=html}.
+
+    Für einzelne zusätzliche Termine:
+
+    1. Öffne `<Veranstaltungen>`{=html}.
+    2. Wähle `<Hinzufügen>`{=html} → `<Veranstaltung>`{=html}.
+    3. Fülle die nötigen Felder aus und aktiviere im Abschnitt `<Wiederholung>`{=html} `<An zusätzlichen Daten>`{=html}.
+    4. Wähle im Kalender das gewünschte Datum.
+    5. Für weitere Termine wähle das `+` und wiederhole Schritt 4 für alle gewünschten Termine.
+    6. Mit dem `-` können Termine wieder entfernt werden.
+    5. Speichere mit `<Absenden>`{=html}.
