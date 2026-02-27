@@ -12,7 +12,7 @@ Hier findest du Antworten auf häufig gestellte Fragen rund um admin.digital. Di
 
 ## Anmeldung und Berechtigungen
 
-??? question "Ich sehe keine schwarzen Admin-Balken und kann Inhalte nicht bearbeiten. Was kann ich tun?"
+??? question "Ich sehe keinen schwarzen Admin-Balken und kann Inhalte nicht bearbeiten. Was kann ich tun?"
     So gehst du vor:
 
     1. Wähle `<Anmelden>`{=html} in der Fusszeile.
