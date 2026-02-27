@@ -71,7 +71,7 @@ Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [http
 
     Informationen zu neuen Versionen und Funktionen
 
-    [:octicons-arrow-right-24: Kontakt aufnehmen](neuerungen/index.md)
+    [:octicons-arrow-right-24: Mehr erfahren](neuerungen/index.md)
 
 
 </div>
