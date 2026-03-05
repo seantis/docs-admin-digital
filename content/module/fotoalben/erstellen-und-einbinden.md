@@ -10,7 +10,7 @@ Mit dieser Anleitung erstellst du ein neues Fotoalbum, fügst Bilder hinzu und b
 ## 1. Fotoalbum anlegen
 
 1. Öffne im Backend den Menupunkt `Verwaltung`-> `Bilder` -> `Fotoalben verwalten`.
-2. Klicke auf «Hinzufügen» > «Fotoalbum».
+2. Klicke auf `Hinzufügen` > `Fotoalbum`.
 3. Vergib einen aussagekräftigen Titel für das Album.
 4. Ergänze bei Bedarf eine kurze Einleitung (Beschreibung).
 5. Wähle die Darstellung und die Sortierung.
