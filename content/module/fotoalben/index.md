@@ -14,3 +14,7 @@ Bilder werden in einzelnen Alben verwaltet und können je nach Thema, Veranstalt
 ## Darstellung auf der Website
 
 Jedes Fotoalbum kann direkt auf der Startseite oder auf anderen Seiten eingebunden werden. Bei Bedarf lassen sich Alben auch als Slider darstellen, um wichtige Bildinhalte prominent zu präsentieren.
+
+## Weiterführende Anleitung
+
+- [Fotoalbum erstellen und einbinden](/module/fotoalben/erstellen-und-veroeffentlichen/)
