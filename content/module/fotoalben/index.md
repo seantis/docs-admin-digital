@@ -17,4 +17,4 @@ Jedes Fotoalbum kann direkt auf der Startseite oder auf anderen Seiten eingebund
 
 ## Weiterführende Anleitung
 
-- [Fotoalbum erstellen und einbinden](/module/fotoalben/erstellen-und-veroeffentlichen/)
+- [Fotoalbum erstellen und einbinden](/module/fotoalben/erstellen-und-einbinden/)

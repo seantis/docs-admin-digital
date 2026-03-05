@@ -5,7 +5,7 @@ description: Schritt-für-Schritt-Anleitung für die Erstellung und Einbindung e
 
 # Fotoalbum erstellen und einbinden
 
-Mit dieser Anleitung erstellst du ein neues Fotoalbum, fügst Bilder hinzu und veröffentlichst das Album auf der Website.
+Mit dieser Anleitung erstellst du ein neues Fotoalbum, fügst Bilder hinzu und bindest das Album auf der Website ein.
 
 ## 1. Fotoalbum anlegen
 
