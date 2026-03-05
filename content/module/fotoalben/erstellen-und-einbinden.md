@@ -1,9 +1,9 @@
 ---
-title: Fotoalbum erstellen und veröffentlichen
-description: Schritt-für-Schritt-Anleitung für die Erstellung eines Fotoalbums
+title: Fotoalbum erstellen und einbinden
+description: Schritt-für-Schritt-Anleitung für die Erstellung und Einbindung eines Fotoalbums
 ---
 
-# Fotoalbum erstellen und veröffentlichen
+# Fotoalbum erstellen und einbinden
 
 Mit dieser Anleitung erstellst du ein neues Fotoalbum, fügst Bilder hinzu und veröffentlichst das Album auf der Website.
 
