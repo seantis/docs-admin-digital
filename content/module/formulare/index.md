@@ -309,12 +309,23 @@ Mehrere Dateien = *.* (multiple)
 ```
 IBAN (optional) = # iban
 IBAN (Pflicht) * = # iban
+AHV Nummer = # ch.ssn
+UID Nummer = # ch.uid
+MWST Nummer = # ch.vat
 ```
 
 Der hinter `#` angegebene Typ muss aus `stdnum` importierbar sein.
 
 Dokumentation:
 [https://arthurdejong.org/python-stdnum/doc/1.1/index.html#available-formats](https://arthurdejong.org/python-stdnum/doc/1.1/index.html#available-formats)
+
+---
+
+#### Tieridentifikationsnummer
+
+```
+Tieridentifikationsnummer (Mikrochip-Nr.) = chip-nr
+```
 
 ---
 

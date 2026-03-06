@@ -80,7 +80,7 @@ Preiskategorie *=
 Vorname * = ___
 Name * = ___
 Ledigname = ___
-AHV-Nummer = ___
+AHV-Nummer = # ch.ssn
 Geburtsdatum * = YYYY.MM.DD
 Konfession = ___
 
@@ -112,4 +112,14 @@ Tätig seit = YYYY.MM.DD
 Telefon * = ___
 E-Mail * = @@@
 Bemerkung = ...
+```
+
+## Hundesteuer
+
+```ìni
+# Angaben zum Hund
+Hundename * = ___
+Mikrochip-Nummer * = chip-nr
+Geburtsdatum des Hundes * = YYYY.MM.DD
+In Besitz des Hundes seit * = YYYY.MM.DD
 ```
