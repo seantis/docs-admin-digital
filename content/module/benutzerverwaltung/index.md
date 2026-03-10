@@ -18,3 +18,7 @@ Durch die zentrale Verwaltung von Benutzern und Rollen bleiben Zuständigkeiten 
 - Administrator: Verwaltet Benutzerkonten, Rollen und Zugriffsrechte.
 - Editor: Erstellt und bearbeitet Inhalte innerhalb der freigegebenen Bereiche.
 - Supporter: Unterstützt bei Anfragen, Einsicht und Bearbeitung im [Service Ticketing](/module/service-ticketing/).
+
+## Weiterführende Anleitung
+
+- [Benutzer hinzufügen und entfernen](/module/benutzerverwaltung/hinzufuegen-und-entfernen/)

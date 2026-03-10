@@ -13,3 +13,9 @@ Er unterstützt Gemeinden dabei, Dokumente datenschutzkonform bereitzustellen un
 - Planauflagen und Baugesuche datenschutzkonform publizieren
 - Unterlagen datenschutzkonform bereitstellen (Dokumente, Pläne, Anhänge)
 - Klare Struktur für Auffindbarkeit und Transparenz
+
+## Weiterführende Anleitungen
+
+- [Publikation erstellen (ordentliches Verfahren)](/services/planauflage-baugesuche/erstellen-publikation-ordentliches-verfahren/)
+- [Publikation erstellen (vereinfachtes Verfahren)](/services/planauflage-baugesuche/erstellen-publikation-vereinfachtes-verfahren/)
+- [Konfiguration Startseiteneinstellungen](/services/planauflage-baugesuche/konfiguration-startseite/)

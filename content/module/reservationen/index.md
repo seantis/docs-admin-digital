@@ -79,3 +79,7 @@ Im Bereich Bezahlung werden digitale Zahlungen abgewickelt und mit passenden Zah
 ### Benachrichtigungen
 
 Benachrichtigungen informieren automatisiert über Buchungsbestätigungen, Änderungen und Erinnerungen. Der Versandkanal kann je nach Prozess über E-Mail oder SMS-Mitteilung erfolgen.
+
+## Weiterführende Anleitung
+
+- [Reservationen erstellen](/module/reservationen/erstellen/)

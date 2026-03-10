@@ -414,3 +414,9 @@ Rabatt =
     ( ) Sportverein (50%)
     ( ) Schule (100%)
 ```
+
+## Weiterführende Anleitungen
+
+- [Erstellen von Formularen](/module/formulare/erstellen/)
+- [Formulardefinitionen](/module/formulare/formulardefinitionen/)
+- [Beispiele Formcode](/module/formulare/beispiele/)
