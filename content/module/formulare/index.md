@@ -59,7 +59,23 @@ Mein Textfeld = ___
 
 ---
 
-### Komplexes Beispiel
+### Komplexere Beispiele
+
+```
+Lieferung * =
+    (x) Abholung
+    ( ) Lieferung
+        Strasse * = ___
+        << Lieferadresse >>
+        PLZ * = ___[4]/^[0-9]+$
+        << Postleitzahl 4-stellig >>
+        Ort * = ___
+        << Lieferort >>
+        Lieferzeit * = HH:MM
+<< Wählen Sie, ob Sie Ihr Eis abholen oder liefern lassen möchten. >>
+```
+
+oder
 
 ```
 Lieferung * =
