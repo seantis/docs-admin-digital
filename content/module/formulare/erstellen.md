@@ -6,6 +6,7 @@ description: Schritt-für-Schritt-Anleitung für das Erstellen, Bearbeiten und L
 # Erstellen von Formularen
 
 Diese Anleitung zeigt dir, wie du Formulare im Online Schalter erstellst, bearbeitest, löschst und mit Anmeldezeiträumen versiehst.
+Definition und Beispiele von Formulardefinitionen findest du in der [Formulardefinitionen](/module/formulare/formulardefinitionen/)-Dokumentation.
 
 ## 1. Online Schalter öffnen
 
