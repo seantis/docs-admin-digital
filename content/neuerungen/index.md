@@ -7,7 +7,203 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
+---
+## 2026.18
+*Veröffentlicht am 27.03.2026*
 
+### Neuerungen
+
+#### Allgemein
+- CORS-Header für GET- und HEAD-Anfragen hinzugefügt
+
+#### ElectionDay
+- Verbesserte Fehlermeldungen in der API (u.a. für Authentifizierungs- und Serverfehler)
+- Unterstützung für eCH-0252 V2.0.0 hinzugefügt
+- Verbesserte Fehlermeldung bei nicht unterstütztem DOI
+- Wahlen vom gleichen Datum werden beim Import nicht mehr gelöscht, sondern nur noch Wahlen innerhalb desselben Wahlverbunds
+
+#### PAS
+- Zertifikatsnutzung bei API-Anfragen aktiviert
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehlerhafte `href="False"`-Ausgabe in der Veranstaltungs-Ticket-Ansicht behoben
+- Fehlende `connect-src`-Direktive für den Plausible-Analysedienst ergänzt
+
+#### PAS
+- Einheitliches Dropdown für die Spesenerfassung
+---
+
+## 2026.17
+*Veröffentlicht am 26.03.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Erstellungsdatum zu Veranstaltungs-Export hinzugefügt
+- Fehlermeldung bei verschachtelten Felddefinitionen in Formularen (werden aktuell nicht unterstützt)
+- Breadcrumbs in Suchergebnissen für mehr Kontext hinzugefügt
+- Neuer Callback zur Anpassung des Login-Verhaltens
+
+#### Agency
+- Ladeverhalten für API-Abfragen optimiert (Performance-Verbesserung)
+
+#### ElectionDay
+- Verbesserte Fehlermeldungen in der API (u.a. für Authentifizierungs- und Serverfehler)
+- Unterstützung für eCH-0252 V2.0.0 hinzugefügt
+- Verbesserte Fehlermeldung bei nicht unterstütztem DOI
+- Wahlen vom gleichen Datum werden beim Import nicht mehr gelöscht, sondern nur noch Wahlen innerhalb desselben Wahlverbunds
+
+#### Feriennet
+- Zwei neue Empfängergruppen für den Versand: «Organisatoren ohne Angebote» und «Benutzer mit Teilnehmenden ohne Wünsche oder Buchungen»
+
+#### Landsgemeinde
+- Breadcrumbs in Suchergebnissen hinzugefügt
+
+#### PAS
+- SAML2-Login für Parlamentsmitglieder
+- Spesenerfassung (Allowances) hinzugefügt
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehler beim Filtern von Veranstaltungen nach Quelle (Source-Filter) behoben
+
+#### PAS
+- PDF-Export verbessert: Logo hinzugefügt, Seitenränder angepasst
+- Fehler bei der KUB-Konfiguration behoben
+
+#### Allgemein (Org)
+- Möglicher `KeyError` in der Kaba-Konfiguration behoben
+- Seltener Fehler beim automatischen Akzeptieren von Reservations-Tickets behoben
+- Absturz in der Ticket-Ansicht bei ungültigem Besitzerfilter behoben
+---
+
+## 2026.16
+*Veröffentlicht am 18.03.2026*
+
+### Neuerungen
+
+#### ElectionDay
+- Verbesserte Fehlermeldungen in der API (u.a. für Authentifizierungs- und Serverfehler)
+- Unterstützung für eCH-0252 V2.0.0 hinzugefügt
+- Verbesserte Fehlermeldung bei nicht unterstütztem DOI
+
+### Behobene Fehler
+
+#### Landsgemeinde
+- Entwürfe waren öffentlich sichtbar und zugänglich – behoben
+
+---
+
+## 2026.15
+*Veröffentlicht am 17.03.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Veranstaltungs-API-Endpunkt um Filtermöglichkeiten erweitert
+
+---
+
+## 2026.14
+*Veröffentlicht am 17.03.2026*
+
+### Neuerungen
+
+#### Agency
+- Neue Benutzeroberfläche auf Basis von Foundation 6
+
+#### Allgemein
+- HTML-Link zu Personen, Agenturen und Mitgliedschaften in der API hinzugefügt
+- Verbesserter Prompt für den Formular-Code-Generator
+---
+## 2026.13
+*Veröffentlicht am 13.03.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Maximale Zeichenanzahl für Ticket-Nachrichten erhöht
+- Migrations-Links aus den Einstellungen entfernt
+- KI-Unterstützung zur Generierung von Formular-Code hinzugefügt
+- Formular-Code-Link zeigt neu auf docs.admin.digital
+
+#### ElectionDay
+- Anzahl eingegangener Stimmen wird nun explizit importiert und gespeichert (relevant für komplexe Abstimmungen)
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehlerhafte Anzeige von beliebigen Dateien in der Fotoalbum-Bildauswahl behoben
+- Fehlerhafte Anzeige von beliebigen Dateien im Datei-Picker behoben
+- Fehler beim erneuten Veröffentlichen eines zurückgezogenen Anlasses über dessen Ticket behoben
+- Leerer Reservations-Export behoben
+- Fehler im Formular-Code-Parser beim Escaping von Hilfetexten behoben
+
+#### PAS
+- Berechtigungen für den Datei-Download durch Parlamentsmitglieder korrigiert
+---
+## 2026.12
+*Veröffentlicht am 09.03.2026*
+
+### Neuerungen
+
+#### Allgemein
+- KI-Unterstützung zur Generierung von Formularcode hinzugefügt
+- Link zum Formularcode zeigt neu auf docs.admin.digital
+- E-Mail-Benachrichtigung wenn eine Kommission finalisiert wurde
+
+#### Feriennet
+- Bezeichnung «Teilnehmer» zu «Fahrgemeinschaftskontakte» geändert und Infopanel zur Erklärung hinzugefügt
+
+#### PAS
+- Bezeichnung für Dezimalstunden-Eingabe präzisiert
+
+---
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehlendes Grössen-Attribut im Fotoalbum (Rastermodus) behoben
+- Möglicher Float-Unterlauf-Fehler bei Suchanfragen behoben
+
+#### PAS
+- Zwei kleinere Fehler im Export behoben
+---
+## 2026.11
+*Veröffentlicht am 27.02.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Funktion zum Ändern von Benutzernamen für Admins hinzugefügt (nur für Benutzer ohne externen Login-Anbieter, Admin muss YubiKey oder TOTP eingerichtet haben)
+
+#### Feriennet
+- Fehlermeldung bei nicht darstellbaren Dateien im Fotoalbum
+
+#### Wab
+- Behandlung ungültiger Abstimmungstag-Daten
+- Verhinderung von Duplikaten beim Hochladen archivierter Resultate in Entwicklungs- und Staging-Umgebungen
+
+---
+
+### Behobene Fehler
+
+#### Allgemein
+- Verbesserte Stabilität bei Benutzer-Session (Fehler durch abgetrennte Benutzerobjekte behoben)
+- Korrektur einer invertierten Bedingung in der Reservierungsanzeige
+
+#### Feriennet
+- Wunschlisteninformationen werden nun auch ausserhalb der aktiven Wunschlistenphase angezeigt
+- Absturz bei fehlendem Attribut (z. B. bei Videos) im Fotoalbum und der Fotoalbum-Übersicht behoben
+
+#### PAS
+- Fehler mit Komma im Dateinamen unter Windows behoben
+- Adresse passt nun korrekt in den Brief
+- Korrekter Wert für Plenarsitzung wird angezeigt
+- Werte werden auf zwei Dezimalstellen gerundet
 ---
 
 ## 2026.10
