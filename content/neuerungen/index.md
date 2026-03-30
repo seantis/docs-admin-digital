@@ -33,6 +33,7 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 #### PAS
 - Einheitliches Dropdown für die Spesenerfassung
+
 ---
 
 ## 2026.17
