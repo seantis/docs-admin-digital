@@ -5,7 +5,11 @@ description: Verwaltung von Raumreservationen und Ressourcen
 
 # Reservationen
 
+## Ressourcen zur Reservation
 Die Plattform bietet ein bewährtes Online-Reservationssystem für die einfache und zuverlässige Verwaltung von Ressourcen. Dazu zählen zum Beispiel Mehrzweckhallen, Gemeindesäle oder weitere öffentliche Einrichtungen, die zentral erfasst und verwaltet werden.
+
+## Übergeordnete Ressourcen (Abhängigkeiten)
+Reservationen auf einer übergeordneten Ressource blockieren den reservierten Zeitraum auch für die untergeordnete Ressource und umgekehrt. In der Belegungsansicht werden Reservationen von über- und untergeordneten Ressourcen ebenfalls angezeigt.
 
 ## Verfügbarkeiten
 
