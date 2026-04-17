@@ -7,6 +7,63 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
+
+---
+## 2026.22
+*Veröffentlicht am 10.04.2026*
+
+Keine Änderungen seit dem letzten Release.
+
+---
+## 2026.21
+*Veröffentlicht am 10.04.2026*
+
+Keine Änderungen seit dem letzten Release.
+
+
+---
+## 2026.20
+*Veröffentlicht am 10.04.2026*
+
+Keine Änderungen seit dem letzten Release.
+
+---
+## 2026.19
+*Veröffentlicht am 10.04.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Übergeordnete Ressource für Reservationsressourcen optional hinzufügbar (übergeordnete und untergeordnete Ressourcen blockieren sich gegenseitig, untergeordnete Ressourcen blockieren sich nicht gegenseitig)
+
+#### Feriennet
+- Aktualisierte Startseiten-Struktur für neue Instanzen
+- Gruppencode optional gemacht – Aktivierung und Deaktivierung im Zeitraum-Formular möglich
+- Helfer mit verschiedenen Status als Empfänger für Nachrichten auswählbar
+
+#### PAS
+- Stündliche Benutzerkonto-Synchronisation wird neu direkt nach dem Import ausgeführt
+
+#### Übersetzerverzeichnis
+- Operationskommentare für Mitglieder sichtbar gemacht
+
+### Behobene Fehler
+
+#### Allgemein
+- Absturzrisiko beim mehrfachen Klicken auf «Ablehnen» bei Reservationen oder beim Öffnen in mehreren Tabs behoben
+- Kopierfehler in Ansichten mit News-Sammlung behoben
+- Darstellung von Personenorganisationen in Suchergebnissen korrigiert
+
+#### Feriennet
+- Möglicher Absturz in persönlichen Teilnehmeransichten behoben
+
+#### PAS
+- Import robuster gestaltet bei 0 abgerufenen Datensätzen
+
+---
+
+**Hinweis zu den Versionen 2026.20–2026.22:** Keine Änderungen seit dem letzten Release.
+
 ---
 ## 2026.18
 *Veröffentlicht am 27.03.2026*
