@@ -9,6 +9,84 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
 
 ---
+
+## 2026.25
+*Veröffentlicht am 29.04.2026*
+
+### Neuerungen
+
+#### PAS
+- Filter für Import-Logs nach Benutzer hinzugefügt
+- Anzeige des ZG-Benutzernamens auf der Parlamentarier-Ansicht
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehlende Übersetzung für «Veranstaltungsfilter-Konfiguration bearbeiten» ergänzt
+
+#### Agency
+- Darstellungsfehler bei Personenübersicht in Safari behoben
+
+#### PAS
+- Erkennung des Vizepräsidenten korrigiert
+
+#### Winterthur
+- Fehler bei der Inline-Suche behoben
+
+---
+
+## 2026.24
+*Veröffentlicht am 24.04.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Neue Filteroptionen in der API hinzugefügt
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehlender Filter für Plenarsitzungen in PAS ergänzt
+
+#### Feriennet
+- Fehler behoben, bei dem versteckte Bedarfe angezeigt wurden
+- Fehlende Übersetzungen für Gruppencode ergänzt
+
+#### PAS
+- Anzeige des ZG-Benutzernamens auf Parlamentarier-Profil korrigiert
+
+---
+
+## 2026.23
+*Veröffentlicht am 23.04.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Volltextsuche-Filter zu API-Endpunkten hinzugefügt
+- Zusätzliche Ticket-Informationen in der Reservierungsübersicht als PDF verfügbar
+- Verwaltungsleiste und Einstellungen neu angeordnet: Benutzerhandbuch-Link, neue Kategorie «Module» und kategorisierte Einstellungen
+- OneGov API nun auch in Org-Apps verfügbar
+
+#### PAS
+- ZG-Benutzername wird gespeichert
+- Vergütungen und Anwesenheiten: diverses überarbeitet (Berechtigungen, Paginierung, Filter, Export, Vorlagen)
+- Massenbearbeitungen von Einzelbearbeitungen klar getrennt
+
+### Behobene Fehler
+
+#### Allgemein
+- Logikfehler bei der Berechnung von Feiertagen (Karfreitag/Ostermontag wurden für die meisten Kantone fälschlicherweise übersprungen) behoben
+- Fehler beim Auswählen von Zusatzterminen behoben
+- Fehler beim Wiedereröffnen von Tickets behoben
+- Fehlende Übersetzung für «Anhang» ergänzt
+- Fehler in der Formcode-Einrückungsprüfung behoben
+- Fehler im AI-Formcoder (falscher POST-Endpunkt) behoben
+
+#### PAS
+- Diverse Korrekturen bei Vergütungen, Anwesenheiten, PDF-Formatierung und E-Mail-Versand
+
+---
 ## 2026.22
 *Veröffentlicht am 10.04.2026*
 
@@ -19,7 +97,6 @@ Keine Änderungen seit dem letzten Release.
 *Veröffentlicht am 10.04.2026*
 
 Keine Änderungen seit dem letzten Release.
-
 
 ---
 ## 2026.20
