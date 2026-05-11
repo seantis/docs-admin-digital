@@ -10,6 +10,46 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.26
+*Veröffentlicht am 08.05.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Verlinkungen können neu direkt auf oberster Ebene erstellt werden (wie bei Seiten)
+- Importierte Veranstaltungen können beim Abrufen einbezogen werden
+
+#### Landsgemeinde
+- Abstimmungsergebnisse (Vota) werden in der Tagesordnungspunkt-Ansicht oberhalb des Textes angezeigt
+
+#### PAS
+- Zuordnung via ZG-Benutzername ermöglicht
+- Benutzerkonten-Synchronisation per Kommandozeile hinzugefügt
+- Manuelle Bearbeitungsansichten (Hinzufügen/Bearbeiten/Löschen) entfernt, um Missbrauchsrisiken zu minimieren
+
+#### ElectionDay
+- Verbesserte Fehlermeldungen in der API (korrekte JSON-Fehlerantworten für 401 und 500)
+- Unterstützung für eCH-0252 V2.0.0 hinzugefügt
+- Verbesserte Fehlermeldung bei nicht unterstützten DOI
+- Wahlen auf demselben Datum werden nicht mehr pauschal gelöscht, sondern nur noch Wahlen innerhalb desselben Wahlverbunds
+
+### Behobene Fehler
+
+#### Allgemein
+- Absturz beim Erstellen des Reservierungs-PDF behoben, wenn keine darstellbaren Felder vorhanden sind
+- Verbesserte Zeitanzeige bei wiederkehrenden Veranstaltungen
+
+#### Landsgemeinde
+- Entwurfsstatus wird nur noch nach unten weitergegeben (nicht mehr nach oben)
+
+#### PAS
+- Falschen Literaltyp korrigiert
+- Organisationstyp bei Parlamentarierfunktionen wird nun korrekt gespeichert
+- Verlust von Rollenwechseln beim Import von Kommissionsmitgliedschaften behoben
+- Kommissionspräsidenten-Ansicht wiederhergestellt
+
+---
+
 ## 2026.25
 *Veröffentlicht am 29.04.2026*
 
