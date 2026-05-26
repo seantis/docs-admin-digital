@@ -10,6 +10,70 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.28
+*Veröffentlicht am 22.05.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Mandantenspezifische E-Mail-Absender konfigurierbar
+- Rechnungspositionen werden nach Erstellungsdatum so   rtiert (stabilere Reihenfolge)
+
+#### Feriennet
+- Freiwilligenmeldungen erstellen nun ein Ticket; Status kann im Ticket geändert werden, Mails werden bei Anmeldung und Abschluss versendet
+
+### Behobene Fehler
+
+#### Allgemein
+- Darstellung von Tag-Namen korrigiert
+- Link-Migrations-Tool korrigiert (korrekte Zählung von URL-Vorkommen pro Feld)
+- Suche mit Suchvorschlägen korrigiert
+
+#### PAS
+- Anwesenheitsformulare zeigen nur noch aktive Kantonsratsmitglieder an
+
+#### Swissvotes
+- Leere Politikbereiche werden korrekt ignoriert
+
+---
+
+## 2026.27
+*Veröffentlicht am 15.05.2026*
+
+### Neuerungen
+
+#### Allgemein
+- "Täglicher Newsletter"-Checkbox standardmässig aktiviert
+- Neue API-Endpunkte für Formulare, Ressourcen, Personen und RIS
+
+#### Feriennet
+- Registrierungen von Helfenden erstellen nun ein Ticket; Status kann im Ticket geändert werden, Mails werden bei Anmeldung und Abschluss versendet
+
+#### Landsgemeinde
+- Vota innerhalb eines Traktandums werden nach Vota-Nummer sortiert
+
+#### PAS
+- Warnmeldung, wenn kein Benutzerkonto einem Parlamentarier zugeordnet ist
+- Parlamentarier sehen nur die Kommissionen, denen sie angehören
+- Massen-ZIP-Download aller Parlamentarier-PDFs auf der Abrechnungslauf-Exportseite
+
+#### ElectionDay
+- Verbesserte Fehlermeldungen in der API (korrekte JSON-Fehler für 401 und 500)
+- Unterstützung für eCH-0252 V2.0.0
+- Verbesserte Fehlermeldung bei nicht unterstützten DOI
+- Beim Import werden nur Wahlen innerhalb desselben ElectionCompound gelöscht, nicht alle Wahlen am gleichen Datum
+
+### Behobene Fehler
+
+#### Allgemein
+- Tippfehler in Benutzertexten korrigiert
+- Fallback-MIME-Typ für Audiodateien ergänzt
+
+#### PAS
+- Kommissionsname wird im Betreff der Abschluss-E-Mail korrekt angezeigt (statt Parlamentariername)
+- Datumsposition im Brief korrigiert
+---
+
 ## 2026.26
 *Veröffentlicht am 08.05.2026*
 
