@@ -43,7 +43,8 @@ Tickets können nach Abschluss **archiviert** werden. Die Fristen dafür können
 
 Details dazu finden sich im Modul [Datensparsamkeit](/module/datensparsamkeit/).
 
-## Weiterführende Anleitung
+## Weiterführende Anleitungen
 
 - [Anleitung Ticketingsystem](/module/service-ticketing/anleitung/)
+- [Ticket-Abkürzungen](/module/service-ticketing/ticket-abkuerzungen/)
 

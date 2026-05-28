@@ -118,6 +118,7 @@ nav:
       - Service Ticketing:
         - module/service-ticketing/index.md
         - Anleitung Ticketingsystem: module/service-ticketing/anleitung.md
+        - Ticket-Abkürzungen: module/service-ticketing/ticket-abkuerzungen.md
       - Chat: module/chat/index.md
       - Chatbot (RAG) (BETA): module/chatbot/index.md
       - Schnittstelle GEVER: module/gever/index.md
