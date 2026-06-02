@@ -83,6 +83,14 @@ Jeder Service basiert auf modular aufgebauten GovTech [Modulen](/module/).
 
 	[:octicons-arrow-right-24: Mehr erfahren](/services/datenportal-abstimmungen-swissvotes/)
 
+-   :material-gavel:{ .lg .middle } **Parlamentsverwaltung (PAS)**
+
+	---
+
+	Verwaltung von Parlamentarier:innen, Kommissionen, Anwesenheiten und Entschädigungen für den Kantonsrat.
+
+	[:octicons-arrow-right-24: Mehr erfahren](/services/parlamentsverwaltung/)
+
 -   :material-domain:{ .lg .middle } **Intranet**
 
 	---

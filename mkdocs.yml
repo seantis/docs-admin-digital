@@ -92,6 +92,10 @@ nav:
         - Konfiguration Startseiteneinstellungen: services/planauflage-baugesuche/konfiguration-startseite.md
       - Versammlungen (Landsgemeinde): services/versammlungen-landsgemeinde/index.md
       - Datenportal Abstimmungen (Swissvotes): services/datenportal-abstimmungen-swissvotes/index.md
+      - Parlamentsverwaltung (PAS):
+        - services/parlamentsverwaltung/index.md
+        - Abrechnungslauf: services/parlamentsverwaltung/abrechnungslauf.md
+        - Datenimport (KUB): services/parlamentsverwaltung/datenimport.md
       - Intranet: services/intranet/index.md
   - Module:
       - module/index.md
