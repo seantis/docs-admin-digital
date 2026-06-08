@@ -7,7 +7,56 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
+---
+## 2026.31
+*Veröffentlicht am 05.06.2026*
 
+### Neuerungen
+
+#### Allgemein
+- Stichwörter (z.B. Synonyme) zu Themen/Seiten hinzufügbar – werden auch in der Suche berücksichtigt
+- Bezeichnung „Alle News" auf der Startseite in „Alle Beiträge" umbenannt
+
+#### ElectionDay
+- Verbesserte Fehlermeldungen in der API (u.a. korrekte JSON-Antworten bei Fehlern)
+- Unterstützung für eCH-0252 V2.0.0
+- Verbesserte Fehlermeldung bei nicht unterstütztem DOI
+- Wahlen am gleichen Datum werden nicht mehr pauschal gelöscht, sondern nur noch Wahlen innerhalb desselben Wahlverbands
+
+#### Winterthur
+- Zurück-Button im iFrame für Verzeichnis-Einträge und Veranstaltungen hinzugefügt
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehler bei der Veranstaltungs-Suchindexierung nach dem Importieren behoben
+- Scrollverhalten beim Drag-and-Drop von Listenelementen korrigiert
+
+#### Onboarding
+- Fehler im Gemeinde-Assistenten behoben
+
+#### PAS
+- Parlamentariername wird in E-Mails nicht mehr angezeigt
+---
+## 2026.29
+*Veröffentlicht am 28.05.2026*
+
+### Neuerungen
+
+#### PAS
+- Zulagen werden in der Übersicht angezeigt
+
+#### Swissvotes
+- Neues Design der Seite
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehler behoben, bei dem abgebrochene Transaktionen fälschlicherweise Erfolgsmeldungen auslösen konnten
+
+#### PAS
+- Sperrung nach Abschluss eines Abrechnungslaufs wird wieder korrekt verhindert
+- E-Mail-Inhalt und verwendetes Datum in E-Mails korrigiert
 ---
 
 ## 2026.28
