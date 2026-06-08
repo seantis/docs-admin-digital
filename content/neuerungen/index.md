@@ -37,7 +37,9 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 #### PAS
 - Parlamentariername wird in E-Mails nicht mehr angezeigt
+
 ---
+
 ## 2026.29
 *Veröffentlicht am 28.05.2026*
 
