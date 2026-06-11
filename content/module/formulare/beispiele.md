@@ -116,10 +116,70 @@ Bemerkung = ...
 
 ## Hundesteuer
 
-```ìni
+```ini
 # Angaben zum Hund
 Hundename * = ___
 Mikrochip-Nummer * = chip-nr
 Geburtsdatum des Hundes * = YYYY.MM.DD
 In Besitz des Hundes seit * = YYYY.MM.DD
 ```
+
+## Reservation
+
+```ini
+# Kontaktangaben
+Organisation = ___
+Funktion = ___
+Vorname *= ___
+Nachname *= ___
+Adresszusatz = ___
+Strasse und Nr. *= ___
+PLZ *= ___/^[0-9]+$
+Ort *= ___
+Telefon *= ___
+Telefon 2 (optional) = ___
+
+# Reservationsdetails
+Anlass *= ___
+Anzahl Personen = ___
+Garderoben =
+    (x) Keine Garderobe
+    ( ) 1 Garderobe
+    ( ) 2 Garderoben
+Tribüne *=
+    (x) nein
+    ( ) ja (50.00 CHF)
+Matchuhr *=
+    (x) nein
+    ( ) ja
+Alkoholverkauf (reiner Ausschank ausgenommen) *=
+    (x) nein
+    ( ) ja
+        Wenn ja, für Verkauf verantwortliche Person *=
+            (x) Personalien bei den Kontaktangaben angegeben
+            ( ) Eine andere Person
+                Name, Adresse, PLZ / Ort = ...
+
+# Preiskategorie
+Kategorie (Ermässigung auf Selbstkosten) *=
+    ( ) Lokale Vereine, gemeinnützige Organisationen (100%)
+    ( ) Lokale andere Organisationen, natürliche & juristische Personen (25%)
+    ( ) Auswärtige Organisationen, natürliche & juristische Personen
+
+# Bemerkungen
+Bemerkungen = ...
+
+# Grundlagen
+Die Reservationszeit gilt ab Sportanlagenöffnung bis -schliessung (inkl. Garderobennutzung) *=
+    [ ] Akzeptiert
+
+Anlagenbenützungsverordnung *=
+    [ ] Ich akzeptiere die Anlagenbenützungsverordnung
+<< [Anlagenbenützungsverordnung](https://www.TODO-URL.ch) >>
+
+Benützungsordnung *=
+    [ ] Ich akzeptiere die Benützungsordnung
+<< [Benützungsordnung](https://www.TODO-URL.ch) >>
+```
+
+Die URL `https://www.TODO-URL.ch` erstzen durch den Link auf das entsprechende Dokument.
