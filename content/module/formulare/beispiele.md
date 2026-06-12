@@ -183,3 +183,25 @@ Benützungsordnung *=
 ```
 
 Die URL `https://www.TODO-URL.ch` erstzen durch den Link auf das entsprechende Dokument.
+
+## Fischereipatent
+
+```ini
+# Personalien LizenzinhaberIn
+Vorname *= ___
+Name *= ___
+Strasse *= ___
+Hausnummer *= ___
+PLZ *= ___
+Ort *= ___
+E-Mail *= @@@
+Geburtsdatum *= YYYY.MM.DD
+SaNa-Nummer *= ___/^\d{3}-\d{4}-\d{4}/\d{3}-\d$
+Bemerkung = ...
+
+# Lizenztyp
+Lizenztyp * =
+    (x) Jahrespatent (150.00 CHF)
+```
+
+Eine SaNa-Nummer ist der offizielle Schweizer Sachkundenachweis für die Fischerei:  Standard-Format: XXX-XXXX-XXXX/XXX (z. B. 015-9605-7721/001).
