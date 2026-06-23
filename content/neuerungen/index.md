@@ -7,7 +7,71 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
+
 ---
+## 2026.33
+*Veröffentlicht am 19.06.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Ticket-Handler-Codes zeigen jetzt sprechende Anzeigenamen
+- E-Mail-Betreff bei Reservierungen enthält neu Ressourcenname, Datum und Angebot (z.B. «Turnhalle – 15.06.2026 – Anfrage»)
+- Benachrichtigungszeitpunkt für Ressourcen-Benachrichtigungen konfigurierbar
+- Bildgrösse in Formulareingaben wird nach allfälliger Skalierung korrekt aktualisiert
+
+#### ElectionDay
+- Verbesserte Fehlermeldungen in der API (u.a. korrekte JSON-Fehler für 401 und 500)
+- Unterstützung für eCH-0252 V2.0.0
+- Verbesserte Fehlermeldung bei nicht unterstütztem DOI
+- Wahlen mit gleichem Datum werden nicht mehr gelöscht – Bereinigung beschränkt sich auf Wahlen innerhalb desselben ElectionCompound
+
+### Behobene Fehler
+
+#### Allgemein
+- Absturz bei ungültigem oder gelöschtem Reservierungsslot behoben – es wird nun eine verständliche Fehlermeldung angezeigt
+- Möglicher Absturz beim Laden von Personen nach Organisation behoben
+---
+
+## 2026.32
+*Veröffentlicht am 15.06.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Schlüsselwörter (z.B. Synonyme) zu Themen/Seiten hinzufügbar – werden auch in der Suche berücksichtigt
+- Interne Kommentarfunktion hinzugefügt
+- Führende/nachfolgende Leerzeichen in Personennamensfeldern werden automatisch entfernt
+- Verzeichnis: Doppelte Einträge erhalten automatisch ein hochgezähltes Suffix statt einer Fehlermeldung
+
+#### ElectionDay
+- SEO und Open Graph für WAB-Anwendungen
+- Verbesserte Fehlermeldungen in der API (u.a. korrekte JSON-Fehler für 401 und 500)
+- Unterstützung für eCH-0252 V2.0.0
+- Verbesserte Fehlermeldung bei nicht unterstütztem DOI
+- Wahlen mit gleichem Datum werden nicht mehr gelöscht – Bereinigung beschränkt sich auf Wahlen innerhalb desselben ElectionCompound
+
+#### Landsgemeinde
+- Titel vor der Abstimmungsliste hinzugefügt
+
+### Behobene Fehler
+
+#### Allgemein
+- Reservierungsformular stürzt bei abgelaufener Sitzung nicht mehr ab
+- Darstellung interner Kommentare verbessert
+- Scrollverhalten beim Hochscrollen korrigiert
+- Fehler bei Formularfeldern ohne Typdefinition wird korrekt gemeldet
+
+#### Agency
+- Agenturen ohne Portrait werden beim Link-Check übersprungen (kein Absturz mehr)
+
+#### Landsgemeinde
+- Abstimmungen im Entwurfsstatus werden nicht mehr angezeigt
+
+#### PAS
+- Parlamentariername wird in E-Mails nicht mehr angezeigt
+---
+
 ## 2026.31
 *Veröffentlicht am 05.06.2026*
 
