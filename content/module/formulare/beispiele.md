@@ -196,7 +196,7 @@ PLZ *= ___
 Ort *= ___
 E-Mail *= @@@
 Geburtsdatum *= YYYY.MM.DD
-SaNa-Nummer *= ___/^\d{3}-\d{4}-\d{4}/\d{3}-\d$
+SaNa-Nummer *= ___/^\d{3}-\d{4}-\d{4}/\d{3}$
 Bemerkung = ...
 
 # Lizenztyp
@@ -204,4 +204,4 @@ Lizenztyp * =
     (x) Jahrespatent (150.00 CHF)
 ```
 
-Eine SaNa-Nummer ist der offizielle Schweizer Sachkundenachweis für die Fischerei:  Standard-Format: XXX-XXXX-XXXX/XXX (z. B. 015-9605-7721/001).
+Die SaNa-Nummer gehört zum offiziellen Schweizer Sachkundenachweis für die Fischerei. Standardformat: `XXX-XXXX-XXXX/XXX` (z. B. `015-9605-7721/001`).
