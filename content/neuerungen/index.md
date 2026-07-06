@@ -7,6 +7,44 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
+---
+## 2026.34
+*Veröffentlicht am 02.07.2026*
+
+### Neuerungen
+#### Allgemein
+- Hash pro Verzeichniseintrag hinzugefügt (zur Überprüfung der Datenintegrität)
+- Speicherung von Signaturanfragen für eine genauere Abrechnung
+- Nummernabgleich unterstützt jetzt Präfixe (z.B. "AKK-1234-5678")
+- Benutzerdefinierte Kurzlinks hinzugefügt (z.B. https://govikon.ch/@kurzlink)
+- Konfigurierte Feiertage werden im Ressourcen-Kalender angezeigt
+- Personensuche bei der Personenübersicht hinzugefügt
+- Keine Bearbeitungslinks mehr in der Sortieransicht
+
+#### Feriennet
+- Banner ersetzt
+
+### Behobene Fehler
+#### Allgemein
+- Standardsprache für RSS-Feed korrigiert, falls keine Organisationssprache gesetzt ist
+- Fehler beim Hochladen behoben, wenn Dateifeld fehlte
+- Regression bei der Löschung von Zuteilungsregeln ohne Kandidaten behoben
+- Instabile Sortierreihenfolge von zugelassenen iFrame-Domains behoben
+- Entfernen von Veranstaltungsfiltern verhindert, die noch verwendet werden
+- Sortierfunktion repariert
+- Ungültige Jahres-, Status- oder Typangaben bei politischen Geschäften führen nicht mehr zu Fehlern
+
+#### Agency
+- Kartenbreite angepasst
+
+#### ElectionDay
+- Ungültige Domain-Werte im Archiv-Suchfilter werden ignoriert
+
+#### Feriennet
+- Fehlendes Icon beim Rechnungsimport behoben
+
+#### PAS
+- Buchungstext angepasst
 
 ---
 ## 2026.33
