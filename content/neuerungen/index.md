@@ -8,6 +8,67 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
 ---
+## 2026.37
+*Veröffentlicht am 17.07.2026*
+
+### Neuerungen
+#### Allgemein
+- Vorschaufeld für Kurzlinks hinzugefügt
+- Lokaler Login kann neu vollständig ausgeblendet werden (JS-Nachbesserung)
+- Rechnungsbetrag wird vor der Gesamtsumme auf 0.05 gerundet
+
+#### ElectionDay
+- Unterstützung für eCH-0252 V2 hinzugefügt, inklusive neuer Ansichten für Gemeinderesultate
+
+#### WAB
+- Kleinere Verbesserungen bei den Gemeindeansichten
+
+### Behobene Fehler
+#### ElectionDay
+- Fehler bei der GROUP BY-Abfrage im Gemeindearchiv behoben
+
+---
+## 2026.36
+*Veröffentlicht am 14.07.2026*
+
+### Neuerungen
+#### Allgemein
+- Editor: Neue Formatierungsoptionen hinzugefügt (tiefgestellter Text, alphanumerische Listen, Blockzitate)
+- Lokaler Login kann ausgeblendet werden, wenn externe Anmeldeanbieter vorhanden sind
+- Möglichkeit zur Stornierung von Reservationen hinzugefügt
+
+### Behobene Fehler
+#### Allgemein
+- Layout in der Benutzerverwaltung korrigiert
+- Beschriftung des Versand-Buttons beim Newsletter zur besseren Verständlichkeit angepasst
+
+#### PAS
+- Abgleich von KUB-Rollen und Kommissionsmitgliedschaften korrigiert: Erfolgt neu anhand einer externen ID, wodurch Parlamentarier, die vorübergehend aus dem Kantonsrat ausschieden und später mit gleicher Partei und Rolle zurückkehrten, nicht mehr fälschlich überschrieben werden
+
+---
+## 2026.35
+*Veröffentlicht am 14.07.2026*
+
+### Neuerungen
+#### Allgemein
+- Admins können bei Baugesuchen benachrichtigt werden, wenn eine Publikation beginnt und endet
+- Import von Veranstaltungen (Guidle): Ein Tag kann neu auf mehrere Tags gemappt werden
+- Veranstaltungs-Exporte (Excel, CSV, JSON, XML) enthalten neu die Felder «highlight» und «syndicate»
+- Beim Ändern des Kursstatus (FSI) werden nicht mehr automatisch E-Mails versendet
+- URLs von Reservationen können neu geändert werden, wie bei Formularen und Seiten
+- Feiertage werden in der Auslastungsansicht angezeigt
+- Titel für die Veranstaltungsliste ist neu anpassbar
+- Möglichkeit, einen generischen Link im täglichen Newsletter hinzuzufügen
+- Dropdown für Textoptionen ist neu scrollbar
+
+### Behobene Fehler
+#### Allgemein
+- «Alle auswählen» / «Alle abwählen» werden nicht mehr über die volle Breite verteilt dargestellt
+
+#### PAS
+- Dezimalstellen bei Ansätzen (Rate Sets) werden neu unterstützt
+
+---
 ## 2026.34
 *Veröffentlicht am 02.07.2026*
 
