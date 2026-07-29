@@ -431,6 +431,16 @@ Rabatt =
     ( ) Schule (100%)
 ```
 
+#### Preis in Abhängigkeit von Mengen
+
+Bei einem Zahlenfeld gilt der Preis in Klammern pro Einheit und wird mit der eingegebenen Menge multipliziert:
+
+```ini
+Anzahl Monate * = 1..12 (60.00 CHF)
+```
+
+Das Feld ist durch `*` verpflichtend und akzeptiert nur Werte zwischen `1` und `12`. Die Angabe `(60.00 CHF)` definiert den Preis pro Monat. Der Gesamtpreis wird automatisch aus der eingegebenen Anzahl Monate berechnet: Bei drei Monaten werden beispielsweise `180.00 CHF` verrechnet. Da mindestens ein Monat gewählt werden muss, beträgt der Mindestpreis `60.00 CHF`; der Höchstpreis liegt bei `720.00 CHF`.
+
 ## Weiterführende Anleitungen
 
 - [Erstellen von Formularen](/module/formulare/erstellen/)

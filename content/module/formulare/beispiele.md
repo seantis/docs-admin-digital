@@ -205,3 +205,42 @@ Lizenztyp * =
 ```
 
 Die SaNa-Nummer gehört zum offiziellen Schweizer Sachkundenachweis für die Fischerei. Standardformat: `XXX-XXXX-XXXX/XXX` (z. B. `015-9605-7721/001`).
+
+## Parkkarte Lehrperson
+
+```ini
+# Personalien Lehrperson
+Vorname *= ___
+Name *= ___
+Strasse *= ___
+Hausnummer *= ___
+PLZ *= ___
+Ort *= ___
+E-Mail *= @@@
+
+# Parkkarte
+Parkkarte * =
+    (x) Monatskarte
+
+Autokennzeichen *= ___
+
+Startdatum *= YYYY.MM.DD
+
+Parkierungsanlage * =
+    (x) Schulanlage A
+    ( ) Schulanlage B
+
+# Preis
+Preis * =
+    (x) Pensum 91 bis 100%
+        Anzahl Monate (91 bis 100%) * = 1..12 (60.00 CHF)
+    ( ) Pensum 71 bis 90%
+        Anzahl Monate (71 bis 90%) * = 1..12 (50.00 CHF)
+    ( ) Pensum 51 bis 70%
+        Anzahl Monate (51 bis 70%) * = 1..12 (40.00 CHF)
+    ( ) Pensum 41 bis 50%
+        Anzahl Monate (41 bis 50%) * = 1..12 (30.00 CHF)
+    ( ) Pensum 10 bis 40%
+        Anzahl Monate (10 bis 40%) * = 1..12 (20.00 CHF)
+<< Der Preis der Parkkarte richtet sich nach dem Pensum der Lehrperson. Die Parkkarte kann für eine Laufzeit von einem bis zwölf Monaten bestellt werden.  >>
+```
