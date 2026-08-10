@@ -8,6 +8,46 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
 ---
+
+## 2026.39
+*Veröffentlicht am 31.07.2026*
+
+### Neuerungen
+#### Allgemein
+- Bearbeitungsleiste bei mehreren Ansichten verbessert
+- Validierung von Telefonnummern erweitert
+- Möglichkeit hinzugefügt, bei Feiertagen ein Jahr anzugeben
+- „Zurück"-Navigation bei mehreren Ansichten verbessert
+- Warnung bei Überschneidungen bei Erstellung/Bearbeitung von Verfügbarkeitszeiträumen
+- Zählung betroffener Belegungen korrigiert
+- Ansicht für Themenhierarchie hinzugefügt
+- Themen-Diagramm: Export als SVG jetzt vollständig wie beim PNG-Export
+- Verfügbare Login-Anbieter werden beim Login prominenter angezeigt
+- Automatischer Wiederholungsversuch bei fehlgeschlagener Neuindexierung der Suche hinzugefügt
+
+### Behobene Fehler
+#### Allgemein
+- Zählung passender Belegungen erfolgt nun per SQL
+- Bei automatischer Annahme von Formular-Eingaben oder Reservationen wird der ausführende Benutzer neu im Aktivitätsverlauf angezeigt
+
+---
+
+## 2026.38
+*Veröffentlicht am 23.07.2026*
+
+### Neuerungen
+#### PAS
+- Präsidiumsanteil bei Rollenwechseln korrigiert
+
+### Behobene Fehler
+#### Allgemein
+- Performance verbessert: N+1-Anfrage beim iCal-Export von Veranstaltungen behoben
+
+#### Agency
+- Konverter für Query-Parameter „browse" hinzugefügt
+
+---
+
 ## 2026.37
 *Veröffentlicht am 17.07.2026*
 
