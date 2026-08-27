@@ -15,6 +15,12 @@ Diese Dokumentation richtet sich an Mitarbeitende aus der öffentlichen Verwaltu
 
 Die technische Dokumentation für SotwareentwicklerInnen findet sich hier: [https://onegov.github.io/onegov-cloud/](https://onegov.github.io/onegov-cloud/)
 
+## Plattformarchitektur
+
+Die admin.digital-Plattform folgt einer Client-Server-Architektur: Besucher:innen und Verwaltungsmitarbeitende greifen verschlüsselt per HTTPS über eine Firewall und den Webserver nginx auf die Anwendung zu. Mehrere Python-basierte Applikationsinstanzen verarbeiten die Anfragen und speichern die Daten in PostgreSQL. Login/IAM und ein API-Gateway ergänzen die Plattform; angebundene Schnittstellen verbinden sie unter anderem mit GEVER (eCH-0147), Systemen für Abstimmungs- und Wahlresultate (eCH-0252) sowie E-Mail- und SMS-Gateways.
+
+![Schematische Plattformarchitektur von admin.digital](img/admin-digital-architecture.png){ width="60%" }
+
 ## Überblick und nächste Schritte
 
 <div class="grid cards" markdown>
