@@ -7,6 +7,100 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 !!! tip "Komplettes Changelog"
     Entwickler:innen können hier das komplette technische Changelog nachlesen: [CHANGES.md auf GitHub](https://github.com/OneGov/onegov-cloud/blob/master/CHANGES.md)
+
+---
+
+## 2026.43
+*Veröffentlicht am 30.08.2026*
+
+### Neuerungen
+#### Feriennet
+- Freiwilligen-Anmeldungen werden neu als Tickets erfasst
+
+---
+
+## 2026.42
+*Veröffentlicht am 28.08.2026*
+
+### Neuerungen
+#### Allgemein
+- Erweiterte Emoji-Unterstützung in der Textverarbeitung
+- Bulk-Kopie von Verfügbarkeitszeiträumen hinzugefügt
+- Seiten-Schlagwörter werden prominenter angezeigt
+- Feiertage werden in den Ergebnissen der Terminsuche angezeigt
+- "Themendiagramm" zu "Informationsarchitektur" umbenannt
+- "Kategorie" kann neu in einem Fieldset im Preisschema definiert werden
+- Suche in den Einstellungen hinzugefügt
+- Verfügbarkeitszeiträume auf maximal zwei Jahre begrenzt
+- Mehr als eine übergeordnete Ressource pro Ressource möglich
+- Suchergebnisse von RIS-Sitzungen und -Geschäften werden niedriger gewichtet
+
+#### Feriennet
+- Zielgruppe für Benachrichtigungsvorlagen ist neu als Dropdown wählbar
+
+### Behobene Fehler
+#### Allgemein
+- Absturz beim Filtern von Veranstaltungen behoben
+- Konflikt bei der Rechnungsvorlage behoben
+- Absturz beim Bearbeiten sehr grosser Verfügbarkeitszeiträume behoben
+- Fehler behoben, der zu falschen bzw. genullten Rechnungsbeträgen führen konnte
+- Fehler mit blockierenden Ressourcen behoben
+- Fehlende Breadcrumbs (Navigationspfad) ergänzt
+
+#### PAS
+- Darstellungsfehler behoben
+
+---
+
+## 2026.41
+*Veröffentlicht am 14.08.2026*
+
+### Neuerungen
+#### Allgemein
+- Verzeichnisse: E-Mail-Benachrichtigungen mit signiertem PDF-Anhang ermöglicht
+- Formulare: Unterstützung für Fieldsets in verschachtelten Formularfeldern hinzugefügt
+- Zweite iCal-URL hinzugefügt, welche auch blockierende Reservationen einschliesst
+- Einstellungen für Kostenstelle/Rechnungsempfänger bei Formularen/Verzeichnissen hinzugefügt
+- Erinnerungs-E-Mail für Reservationen wird neu 10 Tage im Voraus versendet
+
+#### Feriennet
+- Verbesserte Zahlenformatierung (Tausendertrennzeichen)
+
+### Behobene Fehler
+#### Allgemein
+- Seltener Datenbankfehler bei bestimmten Abfragen behoben
+- Ungültiges Exportformat wird nun korrekt abgefangen
+- Fehlende Übersetzungen bei Validierungsmeldungen behoben
+- Fehlerhafte Einrückung von Kommentaren bei Formularoptionen behoben
+- Korrekte Abbrechen-Links in Editor-Ansichten hinzugefügt
+- Preiseinstellungen werden neu bei der Reservation gespeichert, damit ältere Reservationen weiterhin korrekt berechnet werden
+- Beim Löschen eines Tickets blieben reservierte Zeitslots zurück – behoben
+
+#### Feriennet
+- Rechnungen zeigten fälschlicherweise manuelle Positionen aus anderen Zeiträumen an
+
+---
+
+## 2026.40
+*Veröffentlicht am 10.08.2026*
+
+### Neuerungen
+#### Allgemein
+- Neues Preisschema für Reservationen für Stadtschulen Zug hinzugefügt
+
+#### Feriennet
+- Klonen einer Durchführung verweist neu auf den aktuellen oder nächsten Zeitraum
+
+#### Winterthur
+- Neue UI-Elemente für Winterthur
+
+### Behobene Fehler
+#### Allgemein
+- Textmarkierung im Redactor-Editor in Safari wiederhergestellt
+- Absturz bei leerem HTML nach Bereinigung in der PDF-Erstellung behoben
+- Verknüpfte Rechnungspositionen werden vor dem Löschen eines Tickets entfernt
+- Typumwandlungsfehler in SQL-Abfrage behoben
+
 ---
 
 ## 2026.39
