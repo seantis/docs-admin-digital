@@ -10,6 +10,39 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.44
+*Veröffentlicht am 07.09.2026*
+
+### Neuerungen
+
+#### Allgemein
+- PDF-Anhang bei Kundennachrichten möglich
+- Hervorhebung bei Verlinkung auf einen bestimmten Reservationsplatz hinzugefügt
+- Kalenderabo zeigt Zugriffshinweis an (wie bei Ressourcen)
+
+#### Feriennet
+- Tracking-Funktionen und Video-Einbettungen wiederhergestellt (CSP-Anpassung)
+
+#### Winterthur
+- Diverse Design-Anpassungen
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehler beim Verschieben von Seiten über das erste Element behoben
+- Falsche Zeitanzeige bei Auswahl eines Zeitfensters in der zweiten Tageshälfte behoben
+
+#### Agency
+- Darstellung akademischer Titel korrigiert
+
+#### Feriennet
+- Fehler beim Löschen von Benutzern mit verknüpften Teilnehmern behoben
+
+#### PAS
+- Fehler behoben: Dateien-Dropdown öffnete sich automatisch und verursachte Probleme
+
+---
+
 ## 2026.43
 *Veröffentlicht am 30.08.2026*
 
