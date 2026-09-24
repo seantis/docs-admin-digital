@@ -10,6 +10,71 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.47
+*Veröffentlicht am 17.09.2026*
+
+### Neuerungen
+#### Allgemein
+- Audit-Trail hinzugefügt
+
+#### User
+- Inline-Benutzersuche hinzugefügt
+
+### Behobene Fehler
+#### Allgemein
+- Einfügen von Themen in iFrame-Themen behoben
+- Wildcard-CSP-Domains für iFrame-URLs erlaubt
+- Verwaiste Rechnungspositionen werden nicht mehr erzeugt bzw. automatisch bereinigt
+
+#### Feriennet
+- Fehler bei Freiwilligen behoben
+
+---
+
+## 2026.46
+*Veröffentlicht am 15.09.2026*
+
+### Behobene Fehler
+#### Allgemein
+- Diverse Design-Fehler behoben
+- Fehlendes Icon beim Nachrichten-Button behoben
+- Schriftgrösse von "Zahlung zurückerstatten"- und "Rechnung anzeigen"-Button angeglichen
+
+---
+
+## 2026.45
+*Veröffentlicht am 11.09.2026*
+
+### Neuerungen
+#### Allgemein
+- Performance beim Laden von Veranstaltungen und Verzeichniseinträgen verbessert
+- Bearbeitungsmodus für Empfänger-Formular bei Ressourcen hinzugefügt
+- Formulare können neu auch über die API eingereicht werden
+- PDF-Anhänge bei Reservationsbestätigungen hinzugefügt
+- Mehrere externe Gruppen pro Rolle möglich
+
+#### Feriennet
+- Performance beim Laden von Angeboten verbessert
+
+### Behobene Fehler
+#### Allgemein
+- Fehler beim Löschen vergangener Anmeldefenster mit bereits akzeptierten Anmeldungen behoben
+- Fehlerhafte Speicherung von Benutzer-Tags behoben
+- Darstellung von Versandzeiten (HH:MM) korrigiert
+
+#### Feriennet
+- Fehler beim Löschen von Benutzern mit getätigten Zahlungen behoben
+- Warnung beim Absenden eines leeren Freiwilligen-Warenkorbs hinzugefügt
+- Fehlenden Status im Freiwilligen-Export ergänzt
+
+#### PAS
+- Fehlende Prüfung der Kommissions-ID behoben
+
+#### Winterthur
+- Design-Fehler behoben
+
+---
+
 ## 2026.44
 *Veröffentlicht am 07.09.2026*
 
