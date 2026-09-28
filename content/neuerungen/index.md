@@ -10,6 +10,33 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.48
+*Veröffentlicht am 25.09.2026*
+
+### Neuerungen
+#### Allgemein
+- API: Paginierte Endpunkte liefern jetzt die Gesamtanzahl der Einträge und Seiten
+- Bestätigungs-E-Mail bei Reservationen enthält jetzt einen Link zum Abonnieren des Kalenders (ICS)
+- Reservationen: Dauerhafter Link zu einer eingeschränkten Zusammenfassung (ohne Login), optional mit Bürger-Login
+- Neue Bezeichnungen für Mitglieder von Kommissionen und politischen Gruppen
+
+### Behobene Fehler
+#### Allgemein
+- Ungültige und falsche API-Schlüssel werden korrekt abgefangen
+- Datei-Uploads über die JSON-API funktionieren wieder korrekt
+- Anzeigenamen werden beim Abgleich robuster erkannt (überflüssige Leerzeichen werden ignoriert)
+- Pflichtfelder, die nur Leerzeichen enthalten, werden korrekt als leer erkannt
+- Fehler bei Unterorganisationen behoben
+- Mitglieder von politischen Gruppen werden alphabetisch sortiert
+- Beschriftung von Kommissionen in der Seitenleiste korrigiert
+
+#### PAS
+- Ansicht zum Massenhinzufügen von Kommissionsanwesenheiten eingeschränkt
+
+*Nicht aufgeführt (für User nicht relevant): Cache-Report-Tool (Core), Test-Fix (Verzeichnisse), Performance-Optimierung bei Veranstaltungs-Tags, Reduktion der Log-Einträge im PAS-Import.*
+
+---
+
 ## 2026.47
 *Veröffentlicht am 17.09.2026*
 
