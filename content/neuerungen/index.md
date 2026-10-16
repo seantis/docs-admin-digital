@@ -10,6 +10,45 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.50
+*Veröffentlicht am 12.10.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Bilder-Zuschnitt (Cropper) bei einigen Bild-Uploads hinzugefügt
+- Verbesserte Diff-Ansicht im Audit-Trail
+- Preismodell für die Horwerhalle hinzugefügt
+- Einstellungen zur Datenaufbewahrung für den Audit-Trail hinzugefügt
+- Beginn der Kommissionsmitgliedschaft ist neu optional
+- Zeitgesteuerte Veröffentlichung von politischen Geschäften
+- Neue Rolle hinzugefügt
+- Neuer Status «Eingereicht» für politische Geschäfte
+- Neues Textfeld bei politischen Geschäften
+- Zugriff auf politische Geschäfte kann eingeschränkt werden
+- Neue Einstellung für die Anzahl Einträge pro Seite in der API
+
+### Behobene Fehler
+
+#### Allgemein
+- Bestätigung bei der Stornierung einer Anmeldung hinzugefügt
+- Ungültige Eingaben bei der Bestätigung von Reservationen führen neu zurück zum Formular, damit sie korrigiert werden können
+- Erhöhter Schutz der Widgets vor eingeschleustem Code
+- Vollständige Neuindizierung der Suche stabilisiert
+- Zugriff auf die mTAN-Einrichtung ist nur noch während der Aktivierung möglich
+- mTAN-Einrichtung kann nicht mehr aus einem unvollständigen Login übernommen werden
+
+#### PAS
+- Import deckt neu auch interkantonale Kommissionen ab
+- Fehler bei Sitzungen mit Dauer null behoben
+- Korrektur eines Fehlers bei den Zulagen in der «Kontrollliste XLSX»
+- Korrektur der Prüfung der Anspruchsberechtigung anhand des Sitzungsdatums
+- Doppelte Parlamentarier in der Mehrfachauswahl entfernt
+- Negative Zahlen sind nicht mehr erlaubt
+- Scrollen in Zahlenfeldern deaktiviert
+
+---
+
 ## 2026.48
 *Veröffentlicht am 25.09.2026*
 
