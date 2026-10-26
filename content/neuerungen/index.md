@@ -10,6 +10,46 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.54
+*Veröffentlicht am 26.10.2026*
+
+### Neuerungen
+#### Winterthur
+- Filter für Veranstaltungstermine werden neu in der Seitenleiste angezeigt
+
+### Behobene Fehler
+#### Allgemein
+- Fehlerhafte Zugriffsberechtigungen bei Ansichten im RIS korrigiert
+
+---
+
+## 2026.53
+*Veröffentlicht am 23.10.2026*
+
+### Neuerungen
+#### Allgemein
+- Filtern nach Quellen und Orten ohne Angabe über die API möglich
+- Einzelnes Datei-Upload-Feld in Verzeichnissen kann neu in ein Feld für mehrere Dateien umgewandelt werden
+- Änderungsprotokoll zeigt Textänderungen neu wortgenau an
+- Checkbox zum Ein- und Ausblenden von Personenfotos pro Seite hinzugefügt
+- RIS: Adresse angepasst und Links aktiviert
+- RIS: Bezeichnung der Mitglieder angepasst
+- RIS: Kommissionsmitglieder können neu bearbeitet werden
+
+### Behobene Fehler
+#### Allgemein
+- Fehler beim Verschieben von Personen behoben, die bereits entfernt wurden
+- Liste der verknüpften Personen wird bei veraltetem Stand automatisch neu geladen
+- Absturz beim Erstellen von Ticket-PDFs mit sehr langen Zusammenfassungen behoben
+
+#### Onboarding
+- Absturz beim Absenden eines leeren Gemeindenamens behoben
+
+#### Winterthur
+- Absturz bei nicht erreichbarer Baustellen-Schnittstelle behoben
+
+---
+
 ## 2026.50
 *Veröffentlicht am 12.10.2026*
 
