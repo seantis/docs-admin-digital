@@ -10,6 +10,81 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.57
+*Veröffentlicht am 04.11.2026*
+
+### Neuerungen
+
+#### Feriennet
+- Erklärung in der Zuteilung, wer als Organisator gilt (relevant für Kinder von Organisatoren)
+
+### Behobene Fehler
+
+#### Allgemein
+- Die Formulardefinition ist bei Verzeichnissen wieder ein Pflichtfeld
+- Suchmaschinen folgen den Filterlinks bei Veranstaltungen und Verzeichnissen nicht mehr
+- Mit mTAN geschützte Einträge sind nicht mehr in öffentlichen Exporten von Verzeichnissen enthalten
+
+#### Feriennet
+- Beim Zurücksetzen der Abrechnung werden die Rechnungspositionen gelöscht; dies ist nur möglich, solange keine Position bezahlt wurde
+
+---
+
+## 2026.56
+*Veröffentlicht am 02.11.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Belegungen werden gelb dargestellt, sobald ein Teil davon reserviert ist
+- Verfügbarkeitszeiträume können an einem bestimmten Datum verlängert werden
+- Angepasstes Datumsformat im Export
+
+#### PAS
+- Alle Einzel-PDFs der Parlamentsmitglieder können gesammelt als ein PDF heruntergeladen werden
+- Zusätzliches PDF für jede Sammelerfassung von Anwesenheiten
+- Anzeige, wer eine Anwesenheit erfasst hat
+- Beim Abschluss einer Kommission werden die Anwesenheiten für alle Mitglieder abgeschlossen
+- Angepasste Spalte im Export
+
+### Behobene Fehler
+
+#### Allgemein
+- PDFs wurden in seltenen Fällen unlesbar, wenn Karten konfiguriert waren
+- Fehler im Export bei Veranstaltungen ohne URL behoben
+
+#### ElectionDay
+- Fehler bei mehreren Wahlen mit derselben SortGeschaeft-ID behoben
+
+#### PAS
+- Anwesenheiten ohne Dauer werden nicht mehr im PDF aufgeführt
+- Kommissionspräsidien können Anwesenheiten vor dem Abschluss wieder bearbeiten
+
+---
+
+## 2026.55
+*Veröffentlicht am 28.10.2026*
+
+### Neuerungen
+
+#### Allgemein
+- Alle konfigurierten Schlagwörter von Veranstaltungen werden in der API angezeigt
+- Importierte Veranstaltungen können neu bearbeitet werden
+- Interne Reservationen möglich, ohne dass dafür Verfügbarkeiten eingerichtet werden müssen; bereits reservierte Zeiträume bleiben blockiert
+
+#### Feriennet
+- Blockierte und abgelehnte Durchführungen werden in der Buchungsansicht neu zusammengefasst
+
+### Behobene Fehler
+
+#### Allgemein
+- Fehler beim Import von Veranstaltungen ohne Terminangaben aus Minasa behoben
+- Seltener Fehler bei Zugriffen mit mTAN behoben
+- Korrektur von Veranstaltungs-Schlagwörtern wird auch auf vergangene Termine angewendet
+- Fehlermeldung beim Öffnen von Exporten in Excel verhindert
+
+---
+
 ## 2026.54
 *Veröffentlicht am 26.10.2026*
 
