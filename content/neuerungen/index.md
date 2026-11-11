@@ -10,6 +10,25 @@ description: Aktuelle Änderungen und neue Funktionen von admin.digital
 
 ---
 
+## 2026.58
+*Veröffentlicht am 09.11.2026*
+
+### Neuerungen
+#### PAS
+- Erfassung mehrerer Aktenstudien gleichzeitig ermöglicht
+
+### Behobene Fehler
+#### Allgemein
+- Deaktivierte Benutzer können sich während einer laufenden Zwei-Faktor-Anmeldung nicht mehr einloggen
+- Nach dem Zurücksetzen des Passworts werden alle aktiven Sitzungen abgemeldet
+- Fehlgeschlagene Datei-Uploads über die API werden zuverlässig rückgängig gemacht
+- Korrekte Anzeige der Belegungsfelder bei blockierenden Ressourcen in der Belegungsansicht
+
+#### Agency
+- Personen-Export wird nicht mehr öffentlich zwischengespeichert
+
+---
+
 ## 2026.57
 *Veröffentlicht am 04.11.2026*
 
